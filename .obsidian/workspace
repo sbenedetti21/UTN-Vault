@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ing. Software/1era Clase.md",
+            "file": "Economia/Demanda.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing. Software/1era Clase.md",
+                "file": "Economia/Demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economia/Demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,6 +100,9 @@
   },
   "active": "1805309744f24fe6",
   "lastOpenFiles": [
+    "Economia/Demanda.md",
+    "Economia/1era clase.md",
+    "Economia/Presentación de la materia.md",
     "Ing. Software/1era Clase.md",
     "Pasted image 20220328210439.png"
   ]
