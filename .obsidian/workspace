@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "0b1b3bf1bf1d31fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1805309744f24fe6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ing. Software/1era Clase.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dcc71e90c503f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eaff476565ce791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa667f8ca505e78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6204a637d2a3e386",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1fd5821075f4b012",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cf86dfa54299d2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91bcf42b3240b0aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ing. Software/1era Clase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d895479129b4f771",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1805309744f24fe6",
+  "lastOpenFiles": [
+    "Ing. Software/1era Clase.md",
+    "Pasted image 20220328210439.png"
+  ]
+}
