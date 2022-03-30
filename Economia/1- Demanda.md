@@ -7,7 +7,7 @@ Es la cantidad que se esta dispuesto a comprar en base al precio ofertado.
 Si la Utilidad Marginal sube las cantidades bajan, y viceversa.
 Cuando el precio baja, las cantidades suben, y viceversa.
 
-		Q = 200 - 20p
+$Q = 200 - 20p$ --> ejemplo
 		
 Cantidad demandada no es lo mismo que demanda, si cambia la demanda cambio la función.
 
@@ -26,10 +26,12 @@ La demanda de mercado es la suma de las demandas individuales.
 Mide la amplitud de la variación de una variable cuando varía otra variable de la que depende.
 El empresario quiere saber si el cambio en los precios elevará o reducirá el ingreso total.
 
+---
 *Formula de la elasticidad precio*
+$$ e_p = - \frac{(cantidad final - cantidad inicial)/cantidad inicial}{((precio final - precio inicial)/precio inicial} = \frac{\Delta Q / Q_i}{\Delta p / p_i} $$
+---
 
 Es porcentual, va variando en cada punto.
-
 Es la razon entra la variación % de la cantidad demandada y la variación de su precio en 1%, manteniendose constante todos los demas factores.
 
 Los factores que intervienen en la elasticidad de la demanda son:
@@ -48,7 +50,10 @@ Los factores que intervienen en la elasticidad de la demanda son:
 
 ## Elasticidad de la demanda renta
 
-*Formula de elasticidad renta*
+---
+*Formula de la elasticidad renta*
+$$ e_y = \frac{(cantidad final - cantidad inicial)/cantidad inicial}{((renta final - renta inicial)/renta inicial} = \frac{\Delta Q / Q_i}{\Delta I / I_i} $$
+---
 
 Mide la variacion de la cantidad demandada en función del aumento o disminución de la renta del consumidor. 
 
@@ -57,7 +62,10 @@ Si la demanda de un bien presenta elasticidad renta mayor a 0 entonces el bien e
 
 ## Elasticidad cruzada
 
-*Formula de la eslasticidad cruzada*
+---
+*Formula de la elasticidad cruzada*
+$$ e_{xy} = \frac{(cantidad final_x - cantidad inicial_x)/cantidad inicial_x}{((precio final_y - precio inicial_y)/precio inicial_y} = \frac{\Delta Q_x / Q_{xi}}{\Delta P_y / P_{yi}} $$
+---
 
 Mide el efecto que tiene la variacion de un bien sobre otro bien.
 
