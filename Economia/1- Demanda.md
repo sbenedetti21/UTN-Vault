@@ -1,6 +1,6 @@
 # Función demanda
  
-![[FUNCIONDEMANDA.png]]
+![[zz_FUNCIONDEMANDA.png]]
 
 Es la cantidad que se esta dispuesto a comprar en base al precio ofertado.
 

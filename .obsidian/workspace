@@ -7,8 +7,11 @@
         "id": "1d0d7b8c3cf84617",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Criptografía/Introducción a la Criptografía.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Criptografía/Introducción a la Criptografía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Criptografía/Introducción a la Criptografía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,11 +100,14 @@
   },
   "active": "1d0d7b8c3cf84617",
   "lastOpenFiles": [
+    "Criptografía/Introducción a la Criptografía.md",
+    "Economia/zz_FUNCIONDEMANDA.png",
+    "Ing. Software/1era Clase.md",
+    "Criptografía/zz_confidencialidad.png",
+    "Criptografía/cifradoydescrifrado.png",
     "Economia/1- Demanda.md",
     "Economia/0- Presentación de la materia.md",
     "Economia/1- Necesidades, Bienes, Modelos económicos.md",
-    "Economia/FUNCIONDEMANDA.png",
-    "Ing. Software/1era Clase.md",
     "Pasted image 20220328210439.png"
   ]
 }
