@@ -6,13 +6,28 @@
       {
         "id": "1d0d7b8c3cf84617",
         "type": "leaf",
+        "dimension": 56.42857142857143,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Criptografía/Introducción a la Criptografía.md",
+            "file": "Ing. Software/2 - Calidad de Software.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "46f01033f0f98eed"
+      },
+      {
+        "id": "694d1e532c1c3d85",
+        "type": "leaf",
+        "dimension": 43.57142857142857,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ing. Software/2 - Calidad de Software.md",
+            "mode": "preview"
+          }
+        },
+        "group": "46f01033f0f98eed"
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "right": {
     "id": "1fd5821075f4b012",
@@ -68,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Criptografía/Introducción a la Criptografía.md",
+                "file": "Ing. Software/2 - Calidad de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Criptografía/Introducción a la Criptografía.md",
+                "file": "Ing. Software/2 - Calidad de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,14 +115,15 @@
   },
   "active": "1d0d7b8c3cf84617",
   "lastOpenFiles": [
+    "Ing. Software/2 - Calidad de Software.md",
+    "Ing. Software/1 - Presentación.md",
+    "Ing. Software/DiagramaPez.png",
     "Criptografía/Introducción a la Criptografía.md",
     "Economia/zz_FUNCIONDEMANDA.png",
-    "Ing. Software/1era Clase.md",
     "Criptografía/zz_confidencialidad.png",
     "Criptografía/cifradoydescrifrado.png",
     "Economia/1- Demanda.md",
     "Economia/0- Presentación de la materia.md",
-    "Economia/1- Necesidades, Bienes, Modelos económicos.md",
-    "Pasted image 20220328210439.png"
+    "Economia/1- Necesidades, Bienes, Modelos económicos.md"
   ]
 }
