@@ -30,5 +30,27 @@ Al igual que para garantizar **AUTENTICACION**.
 
 Y lo mismo con el **NO REPUDIO**
 
+## Modelo matemático de un CriptoSistema
+$$(M, K, C, Ee, Dd)$$
+
+- M: Conjunto de textos a cifrar
+- K: Conjunto de todas las claves
+- C: Conjunto de textos cifrados
+- Ee: Función de cifrado
+- Dd: Función de descifrado
+
+Si e = d, entonces es un sistema simétrico (misma clave para cifrar y descifrar), sino es asimétrico.
+
+## Historia y clasificación
+![[historiayclasif.png]]
+
+### Criptografía clásica
+**Clave privada**: la misma clave se usa para cifrar y descrifrar, cada interlocutor tiene que tener una copia de la clave, si se compromete la seguridad de la clave el sistema es inseguro. Cada usuario debe tener una clave diferente, el sistema debe permitir esto. Problema de *distribución* de la clave.
+
+- Texto claro - Texto Cifrado: Napoleón y la Rosetta
+- Transposición: Escítala
+- Sustitución: mover las letras n caracteres hacia adelante (Ceasar)
+- Cifrado "indescifrable": conjunto de césar
+
 ## Link importante
 [CryptoTool](https://www.cryptool.org/en/)

@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1805309744f24fe6",
+        "id": "1d0d7b8c3cf84617",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economia/2 - Factores de la producción y Oferta.md",
+            "file": "Criptografía/1 - Introducción a la Criptografía e Historia.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "035c69d6ac326262"
+      },
+      {
+        "id": "c2d9fb193ea3d4ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Criptografía/1 - Introducción a la Criptografía e Historia.md",
+            "mode": "source"
+          }
+        },
+        "group": "035c69d6ac326262"
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 112
+    "width": 264
   },
   "right": {
     "id": "1fd5821075f4b012",
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/2 - Factores de la producción y Oferta.md",
+                "file": "Criptografía/1 - Introducción a la Criptografía e Historia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/2 - Factores de la producción y Oferta.md",
+                "file": "Criptografía/1 - Introducción a la Criptografía e Historia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,15 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1805309744f24fe6",
+  "active": "1d0d7b8c3cf84617",
   "lastOpenFiles": [
+    "Criptografía/1 - Introducción a la Criptografía e Historia.md",
+    "Criptografía/historiayclasif.png",
+    "Criptografía/2 - g.md",
     "Economia/2 - Factores de la producción y Oferta.md",
-    "Economia/depreciacion-amort.png",
-    "Economia/1- Necesidades, Bienes, Modelos económicos.md",
-    "Economia/Demanda.md",
-    "Economia/1era clase.md",
-    "Economia/Presentación de la materia.md",
-    "Ing. Software/1era Clase.md",
-    "Pasted image 20220328210439.png"
+    "Economia/1- Demanda.md",
+    "Criptografía/Introducción a la Criptografía.md",
+    "Ing. Software/2 - Calidad de Software.md",
+    "Ing. Software/1 - Presentación.md",
+    "Ing. Software/DiagramaPez.png",
+    "Economia/zz_FUNCIONDEMANDA.png"
   ]
 }
