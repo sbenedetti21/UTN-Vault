@@ -72,24 +72,42 @@ Las **Functions declarations** tienen hoisting pero las **Functions expressions*
  
  ![[funcExpressionVSDeclarations.png]]
  
- Las expressions son mejores para cuando no queremos *contaminar* el scope global. Cuando necesitamos una función una vez y despues la descartamos, no quedan almacenadas como las declarations. 
+ Las expressions son mejores para cuando no queremos *contaminar* el scope global. Cuando necesitamos usar una función en el momento y despues la descartamos, no quedan almacenadas como las declarations. 
  
 
 ## Definición hoisting
+Proceso por el cual las variables y funciones definidas son cargadas a memoria en tiempo de compilación.
 
 ## Definición scope
+Determina la visibilidad de una variable, hasta donde podes acceder a la misma dentro del código. `var` tiene alcanze global, `let y const` tienen alcanze local.
 
 ## Ejemplo con código de bubbling y delegación de eventos
+En javascript los eventos primero se ejecutan en el elemento y luego se delegan del hijo hacia el padre y así con todos sus ancestros.
+
+```
+<div onclick="alert('The handler!')"> 
+	<em>
+		If you click on EM, the handler on DIV runs
+	</em> 
+</div>
+```
+
 
 ## Nuevas cosas de ES6. Diferencia entre map y for each
+- ForEach: devuelve undefined, ejecuta una función sobre cada elemento, modifica el array. Es un método de mutación.
+- Map: Crea un nuevo array a partir de la ejecución de una función a cada elemento, retorna ese array nuevo. Es un método inmutable. Puede encadenarse. (.map.map.map)
 
 ## ¿Qué es coerción? Ejemplos
+**Coerción es la acción de forzar a que un objeto se comporte como si fuera de otro tipo**. Sin lugar a dudas, éste es uno de los aspectos más interesantes de JavaScript. Al ser un lenguaje débilmente tipado y dinámico, no es necesario especificar el tipo de dato para las variables porque **el tipo está asociado al valor**.
+Esto hace que podamos implementar muchos conceptos de la OOP como la sobrecarga de métodos o polimorfismo.
 
 ## Definir callback, promesas y async-await
-
-## Hablar de asincronismo en general
+JavaScript es single-threaded pero trabaja con asincronismo. 
+Una promesa es una llamada a una función asincrónica, la cual devuelve una nueva promesa. Se le pueden aplicar los métodos `.then` y `.catch`.
+Un callback es una función que se ejecuta luego de otra ejecución asincrónica, muy usada para muchas funciones que buscan cierta info a una api o bd y luego la almacenan en uno de los parametros de la callback.
 
 ## Closures
+Una clausura o clousure permite acceder al ámbito de una función exterior desde una función interior. En JavaScript, las clausuras se crean cada vez que una función es creada.
 
 ## iife
 The name — **immediately invoked function expressions** — pretty much says it all here. When a function is created at the same time it is called, you can use an IIFE.
@@ -102,14 +120,13 @@ or
 (() => {...})()
 ```
 
-...
-
-
 ## Prototypes y clases.
 
-## Local y session storage
 
 ## Nombrar tres librerías de Javascript (must have)
+Math.js
+React.js
+Anime.js
 
   ---
 
@@ -118,22 +135,54 @@ or
   ---
 
 ## ¿Cuál es la diferencia entre componente de clase y funcional?
+La mayor diferencia es su sintaxis, ya que desde la adición de los Hooks en React 16.8, las componentes de función pueden mantener estado, ejecutar lifecycle methods, y demás.
+Hoy día son mas utilizados los componentes de función porque son mas fáciles de escribir, mas prácticos
 
 ## Describir la sintaxis de un componente de clase.
+```
+class Home extends React.Component {
+	constructor(props) {
+		super(props);
+		this.state = {
+			counter = 0
+		}
+	}
+	
+	render() {
+		return (
+			<h1>Home, {this.state.counter}</h1>
+		)
+	}
+}
+```
 
 ## ¿Por qué se le pone la prop key cuando se usa la función map?
+Para que React sepa diferenciar entre componentes que parecen iguales.
 
 ## Hooks
-
-## ¿Cuál es la diferencia entre redux y redux Thunk?
+- useState()
+- useEffect():
+	- useEffect({...})  -> Se ejecuta cada vez que se renderiza, componentDidMount
+	- useEffect({...}, []) -> Se ejecuta la primera vez que se renderiza
+	- useEffect({...}, \[counter]) -> Se ejecuta cada vez que counter se modifica
+	- useEffect({  return () => {...}  }) -> componentDidUnmount
+- useContext()
+- useLocation()
+- useReducer()
+- your own hooks
 
 ## ¿Por qué utilizar react y no angular? ¿Cuáles son sus diferencias?
 
+
 ## ¿Cuándo usar react native o cambiar a kotlin y swift?
 
-## ¿Qué es Redux?
+## ¿Qué es Redux? ¿Cuál es la diferencia entre redux y redux Thunk?
+Redux es un contenedor de estado, basado en una `store`, la cual contiene el estado de toda la aplicación y es conocida por todos los componentes.
+Se maneja despachando `actions` que ejecutan a traves de un  `reducer` para modificar el estado.
+Estas actions son puras, siempre producen el mismo efecto. Esto trae el problema de que no podemos llamar código asíncrono desde ellas. Para eso necesitamos una `thunk` function. (este no es el único uso pero si el mas común)
 
 ## ¿Que es doc type?
+The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect.
 
 ## ¿Qué evalúas antes de migrar un proyecto de js vanilla a react/vue/angular?
 
@@ -158,8 +207,6 @@ or
 ## ¿Qué es la integración continua? ¿TDD?
 
 ## ¿Qué tipo de funciones existen en nodeJS?
-
-## ¿A qué es equivalente el useEffect en componentes de clase?
 
 ## ¿Por qué usar un estado en lugar de una variable?
 
