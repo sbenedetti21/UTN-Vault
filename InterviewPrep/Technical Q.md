@@ -253,6 +253,9 @@ The declaration is not an HTML tag. It is an "information" to the browser about 
 ## ¿How many resources will a browser download from a given domain at a time? What are the exceptions?
 
 ## Name 3 ways to decrease page load (perceived or actual load time).
+- Get rid of the files you don't need
+- Remove or compress larger images
+- Cache your web pages
 
 ## If you jumped on a project and they used tabs and you used spaces, ¿what would you do?
 
@@ -267,6 +270,8 @@ The declaration is not an HTML tag. It is an "information" to the browser about 
 ## Explain what ARIA and screenreaders are, and how to make a website accessible.
 
 ## Explain some of the pros and cons for CSS animations versus JavaScript animations.
+Depends on what you want to create as an animations. If you have to make an animation which you know has a state A and state B (initial and final) you can use a CSS transition. If you have multiple states, you might need an animation from JS.
+If you have the choice to select any, usually a transition is more perfotmant than a js animation.
 
 ## ¿What does CORS stand for and what issue does it address?
 
