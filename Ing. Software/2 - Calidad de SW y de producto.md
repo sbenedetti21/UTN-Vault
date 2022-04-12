@@ -33,7 +33,7 @@ La totalidad de aspectos y características...
 - **Trascendental**: es algo que se puede reconocer pero no se puede definir (como decir que racing es el mejor equipo de arg, es subjetivo)
 - **Del usuario**: es adecuación al propósito (prevalece que el software cumpla con los requerimientos del usuario)
 - **De la manufactura**: es conformidad con la especificación (tiene que ver con el proceso de construcción del producto, (NORMAS ISO))
-- **Del producto**: está vinculada a las características inherentes del producto (si cumple en cierto grado con los atributos de calidad que yo considero, es de calidad. Hay mix de subjetivada y objetividad)
+- **Del producto**: está vinculada a las características inherentes del producto (si cumple en cierto grado con los atributos de calidad que yo considero, es de calidad. Hay mix de subjetivada y objetividad pero es mas objetiva)
 - **Basada en el valor**: depende de la cantidad de dinero que el usuario está dispuesto a pagar por el producto (maximizar la relacion costo/beneficio)
 
 ## Costos de la calidad
@@ -47,7 +47,7 @@ El costo de la calidad es el gasto que se hace para cumplir con los atributos qu
 - Desgaste del equipo de trabajo
 - Imagen negativa ante el cliente 
 
-## Calidad del producto - ISO 25010
+# Calidad del producto - ISO 25010
 
 ![[ISO25010.png]]
 Atributos contribuyentes a la calidad del producto software segun: ***ISO 25010***
@@ -77,7 +77,7 @@ Capacidad del producto para ser atendido, aprendido, usado y resultar atractivo 
 
 - *Capacidad para reconocer su adecuación*: que los usuarios sean capaces de reconocer para que sirve el producto, sin recurrir a info adicional.
 - *Capacidad de aprendizaje*: capacidad del producto que permite al usuario aprender su aplicación.
-- *Capacidad para ser usado*: facilidad a la hora de operarlo.
+- *Capacidad para ser usado* u *operabilidad*: facilidad a la hora de operarlo.
 - *Protección contra errores de usuario*: que pueda dar un nivel de cobertura a los errores voluntarios tanto como involuntarios.
 - *Estética de la interfaz de usuario*: capacidad de agradar y satisfacer la interacción con el usuario. 
 - *Accesibilidad*: capacidad para ser utilizado por usuarios con determinadas características y discapacidades.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "InterviewPrep/Technical Q.md",
+            "file": "Ing. Software/3 - Calidad de Proceso.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InterviewPrep/Technical Q.md",
+                "file": "Ing. Software/3 - Calidad de Proceso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InterviewPrep/Technical Q.md",
+                "file": "Ing. Software/3 - Calidad de Proceso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "09b18de4eb09997c",
   "lastOpenFiles": [
+    "Ing. Software/3 - Calidad de Proceso.md",
+    "Ing. Software/2 - Calidad de SW y de producto.md",
+    "Ing. Software/1 - Presentación.md",
     "InterviewPrep/Technical Q.md",
-    "Ing. Software/2 - Calidad de Software.md",
     "Criptografía/1 - Introducción a la Criptografía e Historia.md",
     "Criptografía/historiayclasif.png",
     "Criptografía/2 - g.md",
     "Economia/2 - Factores de la producción y Oferta.md",
     "Economia/1- Demanda.md",
-    "Criptografía/Introducción a la Criptografía.md",
-    "Ing. Software/1 - Presentación.md",
-    "Ing. Software/DiagramaPez.png"
+    "Criptografía/Introducción a la Criptografía.md"
   ]
 }

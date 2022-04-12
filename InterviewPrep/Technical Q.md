@@ -2,7 +2,7 @@
 ---
 
 ## ¿Cuál es el significado semántico de las etiquetas? Nuevas etiquetas HTML5
-El significado semántico de las etiquetas HTML es importante, ya que ayuda a la legibilidad del documento, crea un contenido ordenado y estructurado. Además, el buen uso semántico de las etiquetas permite que las páginas web sean mejor indexadas por los buscadores. El uso de `div` en todos los elementos es una mala práctica, para eso se instauraron nuevas etiquetas en HTML5 como `header`, `footer, `nav`, `section`, `figure`, etc.
+El significado semántico de las etiquetas HTML es importante, ya que ayuda a la legibilidad del documento, crea un contenido ordenado y estructurado. Además, el buen uso semántico de las etiquetas permite que las páginas web sean mejor indexadas por los buscadores. El uso de `div` en todos los elementos es una mala práctica, para eso se instauraron nuevas etiquetas en HTML5 como `header`, `footer`, `nav`, `section`, `figure`, etc.
 
 ## Accesibilidad web (alt y atributo aria label)
 Con el atributo `aria-label` podemos proporcionar una etiqueta a cualquier tecnología de asistencia en caso que un usuario con una discapacidad en la vista visite nuestra web. El atributo `alt` cumple este mismo rol en las imagenes.
@@ -21,7 +21,7 @@ Orden de selectores:
 -   **Inline styles** - Example: `<h1 style="color:pink">Hello</h1>`
 -   **IDs** - Example: `#navbar`
 -   **Classes, pseudo-classes, attribute selectors** - Example: `.test, :hover, [href]`
--   **Elements and pseudo-elements** - Example: `h1, :before`
+-   **Elements and pseudo-elements** - Example: `h1, ::before`
 
 Si se usa el `!important` este sobreescribirá hasta los inline styles. No es recomendable.
 
