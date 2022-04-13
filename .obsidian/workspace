@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ing. Software/3 - Calidad de Proceso.md",
+            "file": "Economia/3 - Mercado y medidas del estado.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 220
   },
   "right": {
     "id": "1fd5821075f4b012",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing. Software/3 - Calidad de Proceso.md",
+                "file": "Economia/3 - Mercado y medidas del estado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing. Software/3 - Calidad de Proceso.md",
+                "file": "Economia/3 - Mercado y medidas del estado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "09b18de4eb09997c",
   "lastOpenFiles": [
-    "Ing. Software/3 - Calidad de Proceso.md",
-    "Ing. Software/2 - Calidad de SW y de producto.md",
-    "Ing. Software/1 - Presentación.md",
+    "Economia/3 - Mercado y medidas del estado.md",
+    "Economia/2 - Factores de la producción y Oferta.md",
+    "Economia/1- Necesidades, Bienes, Modelos económicos.md",
+    "Economia/1- Demanda.md",
+    "Economia/0- Presentación de la materia.md",
     "InterviewPrep/Technical Q.md",
+    "Ing. Software/2 - Calidad de Software.md",
     "Criptografía/1 - Introducción a la Criptografía e Historia.md",
     "Criptografía/historiayclasif.png",
-    "Criptografía/2 - g.md",
-    "Economia/2 - Factores de la producción y Oferta.md",
-    "Economia/1- Demanda.md",
-    "Criptografía/Introducción a la Criptografía.md"
+    "Criptografía/2 - g.md"
   ]
 }
