@@ -9,7 +9,7 @@ Son los recursos que forman parte del proceso de producción de bienes y servici
 - **Tecnología**: la retribución de la tecnología esta dividida en el factor capital fijo, o en el factor trabajo.
 
 ### Recursos naturales - Tierra
-*ver ppt*
+Se denominan recursos naturales a aquellos bienes materiales y servicios que proporciona la naturaleza al sistema productivo, sin alteración por parte del ser humano.
 
 #### Clasificación rec naturales
 - Renovables
@@ -22,6 +22,7 @@ Son los recursos que forman parte del proceso de producción de bienes y servici
 - No renovables
 
 ### Recurso Humano - Trabajo
+Se denomina recurso humano a las diversas formas de servicios que aporta el hombre al sistema productivo.
 
 #### Clasificación rec humano
 
@@ -49,13 +50,16 @@ Son los recursos que forman parte del proceso de producción de bienes y servici
 
 Cuanto mas amplia el area amarilla mas capacidad de sostener el consumo de una población.
 
+
 ### Recurso capital
+El capital es un factor de producción constituido por diferente tipo de bienes e incluso dinero que se destina a la producción de bienes y servicios útiles.
 
 - Capital circulante: dinero aplicado al ciclo de producción, dinero líquido, materia prima. ver Amortizaciones. 
 - Capital fijo: dinero disponible aplicado a maquinas.
 
 ![[ciclocapital.png]]
 
+Capital Fijo
 ![[depreciacion-amort.png]]
 
 Nuestra inversión incial se divide en capital fijo y circulante.
@@ -91,13 +95,26 @@ El rango en donde la producción marginal es máxima hasta que es cero, es el ra
 Los *costos fijos* no varían con las cantidades producidas (ej: alquiler del galpón), permanecen constantes.
 
 - **Costo fijo medio**: resulta del cociente entre Costo fijo total/Cantidad de unidades producidas. A medida que mas produzco, el costo fijo medio es menor.
+$$C_{me} = \frac{Cf_t}{Q}$$
 - **Costo variable total**: varía siempre que se modifica la cantidad de bien producida.
 - **Costo variable medio**: cocientre entre Costo variable total/cantidad de unidades producidas. Cuando tengo el mínimo costo variable medio, es el máximo de la producción media (óptimo técnico)
+$$Cvme = \frac{Cv_t}{Q}$$
 - **Costo Total**: Costo fijo total + Costo variable total
+$$C_t = Cf_t + Cv_t$$
 - **Costo Medio**: Costo fijo medio + Costo variable medio
+$$C_{me} = Cf_{me} + Cv_{me}$$
 - **Costo Marginal**: Como varía el costo total ante el agregado de unidad producida. Cociente entre aumento costo total/aumento de la produccion total obtenido.
+$$Cmar = \frac{\Delta C_t}{\Delta Produccion_t}$$
 
 ![[curvaCostos.png]]
+
+### Nivel de producción
+Para determinar el máximo beneficio:
+![[maxBeneficio.png]]
+
+![[benef1.png]]
+![[benef2.png]]
+![[benef3.png]]
 
 ---
 

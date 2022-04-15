@@ -1,22 +1,51 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Criptografía",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Economia",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Ing. Software\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:InterviewPrep",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 2.2747191011236,
+  "lineSizeMultiplier": 2.71516853932584,
+  "collapse-forces": false,
+  "centerStrength": 0.410714285714286,
+  "repelStrength": 10.5952380952381,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 189,
+  "scale": 0.584358118056752,
   "close": true
 }

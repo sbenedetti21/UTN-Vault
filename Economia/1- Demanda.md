@@ -72,3 +72,8 @@ Mide el efecto que tiene la variacion de un bien sobre otro bien.
 Si la elasticidad cruzada es positiva los bienes son sustitutos. Si sube el precio de un bien, sube la demanda de otro.
 Si la elasticidad cruzada es negativa los bienes son complementarios. Si sube el precio de un bien, baja la demanda del otro.
 
+
+
+elástica
+
+demanda

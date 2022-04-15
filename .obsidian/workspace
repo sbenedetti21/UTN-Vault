@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "09b18de4eb09997c",
+        "id": "61281113f2059c80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Criptografía/2 - Criptografía Simétrica.md",
+            "file": "Economia/1- Demanda.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Criptografía/2 - Criptografía Simétrica.md",
+                "file": "Economia/1- Demanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Criptografía/2 - Criptografía Simétrica.md",
+                "file": "Economia/1- Demanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09b18de4eb09997c",
+  "active": "61281113f2059c80",
   "lastOpenFiles": [
+    "Economia/1- Demanda.md",
+    "Economia/2 - Factores de la producción y Oferta.md",
+    "Economia/1- Necesidades, Bienes, Modelos económicos.md",
+    "Economia/3 - Mercado y medidas del estado.md",
+    "Economia/assets/puntoOptimo.png",
+    "Economia/0- Presentación de la materia.md",
     "Criptografía/2 - Criptografía Simétrica.md",
     "Criptografía/1 - Introducción a la Criptografía e Historia.md",
-    "Economia/0- Presentación de la materia.md",
     "Ing. Software/1 - Presentación.md",
-    "Ing. Software/2 - Calidad de SW y de producto.md",
-    "Ing. Software/3 - Calidad de Proceso.md",
-    "InterviewPrep/Technical Q.md",
-    "Criptografía/historiayclasif.png",
-    "Criptografía/2 - g.md",
-    "Economia/2 - Factores de la producción y Oferta.md"
+    "Ing. Software/2 - Calidad de SW y de producto.md"
   ]
 }
