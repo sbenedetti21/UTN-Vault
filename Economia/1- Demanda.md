@@ -28,7 +28,7 @@ El empresario quiere saber si el cambio en los precios elevará o reducirá el i
 
 ---
 *Formula de la elasticidad precio*
-$$ e_p = - \frac{(cantidad final - cantidad inicial)/cantidad inicial}{((precio final - precio inicial)/precio inicial} = \frac{\Delta Q / Q_i}{\Delta p / p_i} $$
+$$ e_p = - \frac{(cantidad final - cantidad inicial)/cantidad inicial}{((precio final - precio inicial)/precio inicial} = -\frac{\Delta Q / Q_i}{\Delta p / p_i} $$
 ---
 
 Es porcentual, va variando en cada punto.

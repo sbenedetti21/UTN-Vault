@@ -51,6 +51,9 @@ Si la demanda es de elasticidad infinita, el productor tiene que asumir el 100% 
 
 Como conclusión, la incidencia es mayor sobre la parte del mercado que es mas inelástica.
 
+![[imppp.png]]
+El 70% es asumido por el comprador y el 30% por el vendedor.
+
 ## Grupos de empresas
 Existen diferentes motivos por los cuales las empresas se agrupan:
 
