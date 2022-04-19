@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ing. Software/4 - Software Engineer Approaches.md",
+            "file": "Economia/2.1 - Contabilidad.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 122
   },
   "right": {
     "id": "1fd5821075f4b012",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing. Software/4 - Software Engineer Approaches.md",
+                "file": "Economia/2.1 - Contabilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing. Software/4 - Software Engineer Approaches.md",
+                "file": "Economia/2.1 - Contabilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "61281113f2059c80",
   "lastOpenFiles": [
+    "Economia/2.1 - Contabilidad.md",
+    "Economia/1.3 - Mercado y medidas del estado.md",
+    "Economia/1.1 - Demanda.md",
+    "Economia/1.1 - Necesidades, Bienes, Modelos económicos.md",
+    "Economia/1.2 - Factores de la producción y Oferta.md",
+    "Economia/0- Presentación de la materia.md",
     "Ing. Software/4 - Software Engineer Approaches.md",
     "Ing. Software/3 - Calidad de Proceso.md",
     "Ing. Software/2 - Calidad de SW y de producto.md",
-    "Ing. Software/1 - Presentación.md",
-    "Economia/1- Necesidades, Bienes, Modelos económicos.md",
-    "Economia/1- Demanda.md",
-    "Economia/3 - Mercado y medidas del estado.md",
-    "Economia/2 - Factores de la producción y Oferta.md",
-    "Economia/0- Presentación de la materia.md",
-    "Economia/assets/puntoOptimo.png"
+    "Ing. Software/1 - Presentación.md"
   ]
 }
