@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ing. Software/4 - Software Engineer Approaches.md",
+            "file": "Economia/2.2 - Análisis económicos e indices.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing. Software/4 - Software Engineer Approaches.md",
+                "file": "Economia/2.2 - Análisis económicos e indices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing. Software/4 - Software Engineer Approaches.md",
+                "file": "Economia/2.2 - Análisis económicos e indices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "61281113f2059c80",
   "lastOpenFiles": [
+    "Economia/2.2 - Análisis económicos e indices.md",
+    "Economia/2.1 - Contabilidad.md",
     "Ing. Software/4 - Software Engineer Approaches.md",
     "Ing. Software/assets/kanbanEnPractica.png",
     "Criptografía/2 - Criptografía Simétrica.md",
-    "Economia/2.1 - Contabilidad.md",
     "Economia/1.3 - Mercado y medidas del estado.md",
     "Economia/1.1 - Demanda.md",
     "Economia/1.1 - Necesidades, Bienes, Modelos económicos.md",
     "Economia/1.2 - Factores de la producción y Oferta.md",
-    "Economia/0- Presentación de la materia.md",
-    "Ing. Software/3 - Calidad de Proceso.md"
+    "Economia/0- Presentación de la materia.md"
   ]
 }
