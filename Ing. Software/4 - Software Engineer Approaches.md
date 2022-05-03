@@ -1,4 +1,4 @@
-# ¿Qué es un proyecto?
+# ¿Qué es un proyecto? - Gestion proyecto
 Es un esfuerzo temporal emprendido para crear un producto o servicio único para lograr un objetivo.
 - Tiene un objetivo o beneficio a obtener que guía el proyecto.
 - Temporal: principio y fin (tiempo finito)
