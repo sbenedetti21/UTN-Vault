@@ -79,6 +79,8 @@ Los sistemas se dividen en 5 clases:
 
 Se categoriza el sistema y en base a la siguiente tabla se calculan los *Unadjasted Function Points*
 
+Luego se ajusta en base a una tabla y un cálculo predefinido.
+
 ### Use Case Points
 Basado en el *function points method*, el objetivo de su creación fue desarrollar un método mas sencillo para proyectos orientados a objetos. El método requiere que se pueda contabilizar el número de transacciones en cada caso de uso. Una **transacción** es un evento que ocurre entre un actor y el sistema.
 
