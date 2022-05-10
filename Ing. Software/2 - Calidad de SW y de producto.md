@@ -98,7 +98,7 @@ Capacidad de protección de la info y los datos de manera que personas o sistema
 
 - *Confidencialidad*: capacidad de protección contra acceso a datos e info no autorizados, ya sea accidental o deliberadamente.
 - *Integridad*:  capacidad de prevenir que haya gente que pueda alterar la información de manera no autorizada. Creación de perfiles.
-- *No repudio*: capacidad de demostrar que las acciones sucedieron. (visto en wpp)
+- *No repudio*: capacidad de demostrar que las acciones sucedieron. (visto en wpp) No puedo negar que un evento sucedio. Es la *irrenunciabilidad*. No repudio en origen: el emisor no puede negar el envío porque el receptor tiene pruebas del mismo. Permite probar que sujetos participaron de la acción
 - *Responsabilidad*: capacidad de tener trazabilidad con respecto a las acciones que ejecuta un actor o una entidad. Que capacidad de loggeo tiene una app y con que detalle. Importante para el análisis forense.
 - *Autenticidad*: capacidad de demostrar la identidad del sujeto que esta transaccionando.
 

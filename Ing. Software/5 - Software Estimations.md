@@ -8,8 +8,7 @@
 	- Es la única variable que no cambia
 	- A partir de esta derivan el resto, las demas no se estiman
 
->> Requerimientos -> Tamaño (+ Complejidad)-> Esfuerzo -> Costo 
-																							>> -> Duración
+>> Requerimientos -> Tamaño (+ Complejidad)-> Esfuerzo -> Costo y Duración
 
 ## Por qué fallan las estimaciones?
 - Optimismo
@@ -55,25 +54,38 @@ El dia del fin del proyecto es cuando realmente sabemos cuanto lleva el desarrol
 ![[metodosEst.png]]
 
 ## Métodos rudimentarios
-Lo que estiman es **esfuerzo**, son técnicas que resultan en cantidad hs/hombre que lleva hacer la tarea de forma ininterrumpida.
+Lo que estiman es **esfuerzo** (en realidad no, se contradicen, pero todos son con el estómago), son técnicas que resultan en cantidad hs/hombre que lleva hacer la tarea de forma ininterrumpida. A partir de experiencias se sacan conclusiones.
 - Juicio Experto: alguien con experiencia define una estimación (totalmente estomacal) Rápida de hacer.
 - Pert/Clarck: conjunto de 4/6 personas que estiman como el juicio experto pero se ponderan esas estimaciones. Rápida.
 - Wideband Delphi: El equipo define cuanto es el esfuerzo que nos va a llevar hacer la actividad. Conjunto de personas que tiene que estimar se reunen, analizan los requerimientos, y en forma individual estiman cada tarea. Al final comparan y eligen que tanto les va a llevar.
 - Planning Poker: El equipo define cuanto es el esfuerzo que nos va a llevar hacer la actividad. Conjunto de personas que tiene que estimar se reunen, analizan los requerimientos, y en forma individual estiman cada tarea. Al final comparan y eligen que tanto les va a llevar.
 
+### Planning Poker
+Se estima tamaño. Variación del método Wideband Delphi, bueno para proyectos on-going o a largo plazo. Método estomacal. Todo el equipo participa, se fija el tiempo en el que se va a estimar (1h aprox). Todas las user stories tienen que estar priorizadas y leidas previamente por el equipo. Se miden las user stories en story points siguiendo una escala o serie (generalmente la de fibonacci). Definir tarea pivot (el estándar para poder comparar). Definir la velocidad del equipo (cant de user stories por sprint). Dar la definición de terminado de una user story.
+
+La dinámica es:
+- El moderador plantea la user story (sería el product owner si fuera scrum, no el scrum master bobina)
+- Cada integrante propone una estimación sin saber la de los demas
+- Dar vuelta las cartas al mismo tiempo
+	- El mayor y menor número dan explicaciones
+	- Se vuelve a estimar y repetir esto hasta que haya un consenso
+- Se anota el ID de la User story en el pizarrón en la columna de terminados
+
+**No deja de ser un estómago consensuado**
+
 ## Métodos paramétricos
-Lo que estiman es **tamaño**, que luego puede derivar en duración/esfuerzo.
+Lo que estiman es **tamaño** (mmmm dudoso), que luego puede derivar en duración/esfuerzo.
 - Function Points: evalúa la funcionalidad del sistema, aplica una serie de reglas (está en el paper), obtiene una unidad de tamaño que se llama **function point** (FP)
 - Use Case Points: Similar a Function points, pero mide los casos de uso y obtiene la unidad **Use Case Point** (leer paper)
 - Story Points: mide en función de las user stories y termina siendo **story points**. En una user storie uno captura un requerimiento basado en lo que el usuario quiere hacer sobre el sistema
-- Object Points: define que el sistema es un conjunto de objetos o componentes y cuenta cuantos objetos son modificados por el requerimiento que se esta estimando (ver final del ppt)
+- Object Points: define que el sistema es un conjunto de objetos o componentes y cuenta cuantos objetos son modificados por el requerimiento que se esta estimando (ver final del ppt) (orientado mas al mantenimiento, segun chelo)
 
 ### Function Points
-Los sistemas se dividen en 5 clases:
+Un sistema se puede dividir en 5 clases:
 
-- External Inputs (EI): Data del pasa desde afuera del sistema hacia adentro, la data puede ser usada para mantener uno o mas *Internal logical files* (ILF).
-- External Outputs (EO): Data pasa del interior del sistema hacia afuera. Una EO puede o no actualizar un ILF. La data crea reportes o output files para enviar a otras aplicaciones, eso se representa como *derived information*
-- External Inquiry (EQ): Proceso donde se realiza input y output pero el input no actualiza ningún ILF y el output no contiene derived information.
+- External Inputs (EI): Data del pasa desde afuera del sistema hacia adentro, la data puede ser usada para mantener uno o mas *Internal logical files* (ILF). (Agregar al carrito)
+- External Outputs (EO): Data pasa del interior del sistema hacia afuera. Una EO puede o no actualizar un ILF. La data crea reportes o output files para enviar a otras aplicaciones, eso se representa como *derived information*. ()
+- External Inquiry (EQ): Proceso donde se realiza input y output pero el input no actualiza ningún ILF y el output no contiene derived information. (Consultar estado de pedido)
 - Internal Logical Files (ILFs): Grupo de información correlacionada que reside en el sistema y se mantiene con inputs externos.
 - External Interface Files (EIFs): Grupo de data correlacionada que reside fuera del sistema y se usa para referencia solamente, la mantiene otra aplicación. Es el ILF de otro sistema.
 
@@ -94,7 +106,7 @@ Sumando los actores que intervienen se consigue el *Unadjasted actor weight* (UA
 Los casos de uso se clasifican en:
 - Simple: 3 o menos transacciones. Factor de peso 5
 - Average: entre 4 y 7 transacciones. Factor de peso 10
-- Average: mas de 7 transacciones. Factor de peso 15
+- Complex: mas de 7 transacciones. Factor de peso 15
 
 Sumando los casos de uso se consigue el *Unadjasted use case weight* (UUCW) 
 
@@ -114,3 +126,10 @@ Karner propone usar 20hs/h por cada use case point. Schneider y Winters recomien
 # Extra
 
 Si tengo un proyecto donde el tiempo es una constraint, puedo utilizar timebox development para encararlo, reduciendo el alcance de esos timebox y lo que va a aumentar es el esfuerzo. El costo deriva de ese esfuerzo que requiero.
+
+## Método para estimar (Matriz)
+- Saber que voy a contar
+- Contar cuantos tengo de cada cosa
+- Como voy a categorizar cada uno de esos elementos que identifique, para ver que peso tienen (no todo se puede contar igual, no hay misma complejidad)
+- Identificar cuanto pesa cada una de esas categorías
+- Identificar valores de ajuste y ver con cuanto lo ajusto
