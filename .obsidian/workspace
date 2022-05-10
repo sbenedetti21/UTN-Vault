@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "61281113f2059c80",
+        "id": "840541740716e5fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economia/3.2 - Teoría de la producción y de los costos.md",
-            "mode": "source"
+            "file": "Economia/3.3 - Sistema de costos.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443
+    "width": 390
   },
   "right": {
     "id": "1fd5821075f4b012",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/3.2 - Teoría de la producción y de los costos.md",
+                "file": "Economia/3.3 - Sistema de costos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/3.2 - Teoría de la producción y de los costos.md",
+                "file": "Economia/3.3 - Sistema de costos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61281113f2059c80",
+  "active": "840541740716e5fa",
   "lastOpenFiles": [
+    "Economia/3.3 - Sistema de costos.md",
     "Economia/3.2 - Teoría de la producción y de los costos.md",
+    "Economia/assets/costoFabri.png",
     "Economia/3.1 - Depreciacion y amortizacion.md",
     "Ing. Software/5 - Software Estimations.md",
     "Ing. Software/4 - Software Engineer Approaches.md",
     "Ing. Software/3 - Calidad de Proceso.md",
     "Ing. Software/2 - Calidad de SW y de producto.md",
     "Ing. Software/1 - Presentación.md",
-    "Economia/2.2 - Análisis económicos e indices.md",
-    "Economia/1.1 - Demanda.md",
-    "Economia/2.1 - Contabilidad.md"
+    "Economia/2.2 - Análisis económicos e indices.md"
   ]
 }
