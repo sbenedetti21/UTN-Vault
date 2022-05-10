@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ing. Software/2 - Calidad de SW y de producto.md",
+            "file": "Economia/3.2 - Teoría de la producción y de los costos.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 137
+    "width": 443
   },
   "right": {
     "id": "1fd5821075f4b012",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing. Software/2 - Calidad de SW y de producto.md",
+                "file": "Economia/3.2 - Teoría de la producción y de los costos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing. Software/2 - Calidad de SW y de producto.md",
+                "file": "Economia/3.2 - Teoría de la producción y de los costos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "61281113f2059c80",
   "lastOpenFiles": [
-    "Ing. Software/2 - Calidad de SW y de producto.md",
+    "Economia/3.2 - Teoría de la producción y de los costos.md",
+    "Economia/3.1 - Depreciacion y amortizacion.md",
+    "Ing. Software/5 - Software Estimations.md",
     "Ing. Software/4 - Software Engineer Approaches.md",
     "Ing. Software/3 - Calidad de Proceso.md",
-    "Ing. Software/5 - Software Estimations.md",
-    "Economia/3.1 - Depreciacion y amortizacion.md",
+    "Ing. Software/2 - Calidad de SW y de producto.md",
+    "Ing. Software/1 - Presentación.md",
     "Economia/2.2 - Análisis económicos e indices.md",
     "Economia/1.1 - Demanda.md",
-    "Economia/2.1 - Contabilidad.md",
-    "Ing. Software/assets/kanbanEnPractica.png",
-    "Criptografía/2 - Criptografía Simétrica.md"
+    "Economia/2.1 - Contabilidad.md"
   ]
 }
