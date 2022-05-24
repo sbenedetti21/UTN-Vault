@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TAM/Notas.md",
+            "file": "Ing. Software/6 - Software configuration management.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TAM/Notas.md",
+                "file": "Ing. Software/6 - Software configuration management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TAM/Notas.md",
+                "file": "Ing. Software/6 - Software configuration management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "61281113f2059c80",
   "lastOpenFiles": [
+    "Ing. Software/6 - Software configuration management.md",
+    "Ing. Software/5 - Software Estimations.md",
     "TAM/Notas.md",
     "Funciones.md",
     "Economia/4.1 - Evaluación de proyectos.md",
     "Economia/3.3 - Sistema de costos.md",
     "Economia/3.2 - Teoría de la producción y de los costos.md",
-    "Ing. Software/5 - Software Estimations.md",
     "Ing. Software/2 - Calidad de SW y de producto.md",
     "Ing. Software/4 - Software Engineer Approaches.md",
-    "Ing. Software/3 - Calidad de Proceso.md",
-    "Economia/3.1 - Depreciacion y amortizacion.md"
+    "Ing. Software/3 - Calidad de Proceso.md"
   ]
 }
