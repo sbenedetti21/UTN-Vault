@@ -38,6 +38,49 @@ Acompaña la actividad de cambio con actividades de control
 # SWEBOK
 ![[swebok.png]]
 
+## Administración del proceso de SCM
+Etapa previa al arranque del proyecto, donde se debe comprender el contexto organizacional.
+- Identificación de la configuración
+- Procesos de control de cambios
+- Auditorías de software
+- Release management, entre otras
+- Políticas de manejo de branches para que no crezcan
+
+## Auditoría de la configuración
+Control de que algo se este haciendo como lo esperado.
+El objetivo es realizar una verificación del estado de la configuración a fin de determinar si se están cumpliendo los requerimientos especificados.
+Puede ser ejecutada con diferentes niveles de formalidad:
+- Revisiones informales basadas en checklists
+- Pruebas exhaustivas de la configuración que son planificadas
+
+### Tipos de auditoría
+- **Funcional**: verifica el cumplimiento de requerimientos del producto software. (empieza un sprint para realizar 3 funcionalidades, pero al finalizar la semana se tienen 4 funcionalidades completas, por lo cual no cumple con la auditoría funcional, no cumple con lo esperado) Si detecto una falla en la auditoría funcional, puedo ver en que proceso se generó, quien aprobó los cambios, etc.
+- **Física**: que verifica la configuración del producto en cuanto a la estructura especificada. Controlar que el software hace lo que dice que hace (que ningún gracioso incorpore reglas de negocio a su gusto). Una manera es testear? fundamentalmente, leer el código.
+- **De Proceso**: que verifica que se haya cumplido el proceso de SCM
+
+## Administración de la Distribución y despliegue
+![[releaseManagement.png]]
+
+El objetivo es que yo construya de manera exitosa el software, aplicando las reglas, para despues liberarlo en forma controlada a otros entornos ya sea de pruebas, producción, usuario final, etc.
+
+### Tipos de build
+- Local build:
+- Integration build:
+- Nightly build: build que toma los cambios que se hayan generado en el día
+- Release build:
+
+Los builds deben ser automáticos, deben permitir generar reportes. Traen beneficios al negocio.
+
+### Deploy
+*completar con ppt*
+
+#### Build and Deployement Pipelines
+Automatizacion del proceso para llevar el software desde la aprobación del cambio de SCM hasta que llega a manos de los usuarios.
+
+![[deploy.png]]
+
+Por ejemplo Jenkins, como herramienta.
+
 # SCM en la vida real (complementar ppt)
 La **linea base** de una configuración es una foto del conjunto de items de config que a mi me generaron un software funcional, que luego son utilizados como punto base para realizar configuraciones a futuro. (puede no haber código, con lo cual no es un release)
 
