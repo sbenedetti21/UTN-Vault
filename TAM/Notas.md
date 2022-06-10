@@ -20,3 +20,11 @@ Apple sosl mail, el front debe mandar nombre
 Deploy con jenkinds automatico
 
 Tabla push en net
+
+Routes comentadas en auth???
+
+# MYSQL vs MONGO
+## Lugares donde se utiliza especificamente mongo
+auth.controller.js
+image.controller.js
+user.controller.js

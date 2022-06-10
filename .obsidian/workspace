@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TAM/Notas.md",
+            "file": "Ing. Software/7 - Testing.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 100
   },
   "right": {
     "id": "1fd5821075f4b012",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TAM/Notas.md",
+                "file": "Ing. Software/7 - Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TAM/Notas.md",
+                "file": "Ing. Software/7 - Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,9 +100,9 @@
   },
   "active": "61281113f2059c80",
   "lastOpenFiles": [
+    "Ing. Software/7 - Testing.md",
     "TAM/Notas.md",
     "Ing. Software/6 - Software configuration management.md",
-    "Ing. Software/7 - Testing.md",
     "Economia/3.3 - Sistema de costos.md",
     "Economia/2.1 - Contabilidad.md",
     "Economia/3.1 - Depreciacion y amortizacion.md",
