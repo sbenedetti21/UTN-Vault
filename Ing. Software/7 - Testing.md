@@ -64,4 +64,85 @@ Desde https://youtu.be/sEs4IDhYpTE?t=5405
 Todos los posibles casos de prueba los dividimos en *clases*.
 Todos los casos de una clase son *equivalentes* entre si -> detectan los mismos errores.
 Con solo ejemplos de cada clase cubrimos todas las pruebas (clase de equivalencia)
-El éxito está en la selección de la partición.
+El éxito está en la selección de la partición. Está en construir las particiones correctas. "No hay mejor manera de generar requerimientos que pensando como los voy a probar"
+
+## Depuración
+- Depurar es eliminar un defecto que posee el SW
+- La depuración NO es una tarea de prueba aunque es consecuencia de ella
+- La prueba detecta la falla (efecto) de un defecto (causa)
+La depuración puede ser la fuente de nuevos defectos
+
+Debemos
+- Detectar
+	- Dada la falla debemos hallar el defecto
+- Depurar
+	- Encontrado el defecto debemos eliminarlo
+	- Debemos encontrar la razón del defecto
+	- Debemos encontrar una solución
+	- Debemos aplicarla
+- Volver a probar
+	- Asegurar que sacamos el defecto
+	- Asegurar que no hemos introducido otros (regresión: cuando arreglo algo, se rompe otra cosa)
+- Aprender para el futuro
+	- lecciones aprendidas
+
+## Hasta cuando tengo que probar
+En un avión el esfuerzo de probar no tiene límite ya que un error puede ser muy grave. Existe un punto en todas las áreas en donde seguir probando se hace muy caro y ya no vale la pena.
+
+Paro la prueba cuando:
+-	Pasa exitosamente el conjunto de pruebas que fue diseñado
+-	"Good enough": si pasa un porcentaje
+-	Cantidad de fallas detectadas es igual a estimadas
+
+Para abaratar las pruebas es diseñarlas para ser testeadas.
+
+## Conclusiones
+- Las pruebas no mejoran el SW, solo muestran cuantas fallas se han producido debido a defectos.
+- El buen diseño y construcción no solo benefician las pruebas sino tambien a la corrección de los componentes y su mantenimiento
+- El no probar no elimina los errores
+- Lo mas barato para encontrar y eliminar defectos es no introducirlos
+- Ninguna técnica es completa, lo mejor es combinar
+- Sin especificaciones de requisitos todo es muchisimo mas dificil
+- Debemos tener en cuenta la conjetura de errores (lo de estomacal)
+## Tipos de Prueba 
+### Prueba de caja negra (funcional)
+Prueba que se utiliza para la prueba funcional. Me desentiendo de como estan implementadas las reglas de negocio y ante una entrada me fijo si recibo el resultado esperado. Se basa en la definicion de requerimientos y lo resultados esperados. Basada en entrada/salida. pijas y conchas
+La prueba de caja negra exahustiva es imposible de realizar, tendría que probar todos los valores posibles. Por esto se seleccionan subconjuntos (como las clases de equivalencia), son llamadas *pruebas basadas en subdominios* o *pruebas por partición de equivalencias*.
+
+Criterios de caja negra:
+- Variaciones de eventos
+- Clase de equivalencia
+	- De entrada
+	- De salida
+- Casos de borde
+- Ingreso de valores de otro tipo
+- Integridad del modelo de datos
+	- De dominio
+	- De entidad
+	- De relación
+
+Clase de equivalencia:
+ Indentificamos las clases de equivalencia y luego definimos los casos de prueba. La identificación de clases de equivalencia se hace dividiendo cada condición de entrada en dos grupos: clases válidas y clases inválidas. Ej: si hay una fecha entre 15 de junio y 18 de junio, tenemos dos clases invalidas y una valida (la del 15 al 18).
+ 
+ Por c/condición de entrada:
+ -	Rango de valores: Ej: de 100 a 200
+ -	Conjunto de valores: Ej: DNI, CI, PAS
+ -	"Debe ser": Ej: primera letra "A"
+
+Por casos de borde:
+Exploran las puntas de una clase, los bordes. Si tenemos de 15 a 18 de junio probamos esos dos días como bordes.
+
+Clases inválidas (valores de otro tipo):
+Probar datos que no son del tipo esperado (numericos en vez de alfabéticos, etc). En alfgunos casos estas validaciones las realiza el entorno de desarrollo por lo cual no son necesarias.
+
+Conjetura de errores:
+Sospecha de que algo anda mal, tambien llamada *prueba de sospechas*. Enumeramos una lista de errores posibles o de situaciones propensas a tener errores, creamos casos de prueba basados en esas situaciones. El programador es quien puede darnos información mas relevante. Dos origenes: partes complejas de un componente, o, circunstancias del desarrollo. Basado en experiencia, proceso creativo. Hacerlo cuando un componente esta hecho a las apuradas, o fue modificado por varias personas, o con copy paste, etc.
+
+#### Definiendo condiciones y casos
+Partamos de componentes generados por la etapa de requerimientos. Un SDLC puede producir por ejemplo:
+- Wish list (podrían ser user stories): a cada requerimiento, pensar variaciones de las declaraciones, revisar los sustantivos y los verbos y pensar variaciones.
+- Casos de uso (interaccion entre actor y sistema): La secuencia de eventos dentro de un caso de uso tienen variaciones indicadas por su texto. Cada variación de un evento constituye una "condición de prueba". Esto no puede hacerse si no se ha realizado el análisis de requerimientos.
+- Modelo de datos: La integridad referencial y la cardinalidad de las relaciones definen reglas de negocio que deben ser probadas. Ej: una mesa de examen sin alumnos, una mesa con un alumno, una mesa con n alumnos.
+- Diagrama de transición de estados: El ciclo de vida de un objeto define reglas de negocio que deben ser probadas.
+
+### Prueba de caja blanca (estructural)
