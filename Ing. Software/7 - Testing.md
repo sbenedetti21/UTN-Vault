@@ -59,3 +59,9 @@ Una falla tiene que ver con uno o más defectos.
 - Caso de prueba: Son lotes de datos necesarios para que se dé una determinada condición de prueba. Proceso "laborioso". Ej: Leandro, saldo 100, extracción 10 (a la condición le asocio datos)
 
 Desde https://youtu.be/sEs4IDhYpTE?t=5405
+
+- Criterio de selección: condición para seleccionar un conjunto de casos de prueba. De todas las combinaciones posibles, solo seleccionaremos algunas.
+Todos los posibles casos de prueba los dividimos en *clases*.
+Todos los casos de una clase son *equivalentes* entre si -> detectan los mismos errores.
+Con solo ejemplos de cada clase cubrimos todas las pruebas (clase de equivalencia)
+El éxito está en la selección de la partición.
