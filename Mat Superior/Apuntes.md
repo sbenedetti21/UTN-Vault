@@ -1,3 +1,9 @@
+# Calculo de raices de ecuaciones
+- Condiciones para poder analizar por punto fijo:
+	- Converge si $|g'(x)| < 1$ -> Con esta es suficiente
+	- $g(x)$ continua en el intervalo \[a, b]
+	- Toda imagen de g se encuentra en el intervalo (asi ninguno se nos escapa)
+
 # Sistemas de ecuaciones lineales
 - Norma infinito -> Suma en fila de modulos
 - Norma 1 -> Suma en columna de modulos
@@ -17,3 +23,11 @@
 	- Hay que recordar los polinomios de legendre
 	- Nos exije trabajar en el intervalo \[-1 ; 1]
 - Cambio de variable para Legendre: $x = \frac{a+b}{2} + \frac{b-a}{2}  t$
+
+# Integración numerica
+- Cuando se puede resolver por trapecio, o por simpson?
+	- $N = \frac{b-a}{h}$
+		- Con N entero y par, se pueden ambos
+		- Con N entero impar, solo trapecio
+		- Con N no entero, no puede ninguno
+
