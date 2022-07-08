@@ -1,8 +1,15 @@
 # Calculo de raices de ecuaciones
+- Para biseccion o Bolzano
+	- Son *suficientes* n iteraciones siendo n -> $\frac{b-a}{2^n} < \epsilon$
 - Condiciones para poder analizar por punto fijo:
 	- Converge si $|g'(x)| < 1$ -> Con esta es suficiente
 	- $g(x)$ continua en el intervalo \[a, b]
 	- Toda imagen de g se encuentra en el intervalo (asi ninguno se nos escapa)
+
+La mayoria de los metodos se toman de manera teorica, en general piden resolver por newton raphson, en general.
+NewtonRaphson: $$ x_{i+1} = x_i - \frac{f(x_i)}{f'(x_i)}$$
+
+Asegurar la calculadora en radianes.
 
 # Sistemas de ecuaciones lineales
 - Norma infinito -> Suma en fila de modulos
@@ -12,6 +19,7 @@
 
 # Interpolación
 - Ver el ejercicio de a y b
+- Siempre se toma lo mismo, lo de las incognitas
 
 # Aproximación
 - Ventajas de Legendre
@@ -24,6 +32,8 @@
 	- Nos exije trabajar en el intervalo \[-1 ; 1]
 - Cambio de variable para Legendre: $x = \frac{a+b}{2} + \frac{b-a}{2}  t$
 
+Acordarse de volver a x xuando se cambia a t
+
 # Integración numerica
 - Cuando se puede resolver por trapecio, o por simpson?
 	- $N = \frac{b-a}{h}$
@@ -31,3 +41,4 @@
 		- Con N entero impar, solo trapecio
 		- Con N no entero, no puede ninguno
 
+Funciones impares o impares corridas con SImpson, se van cancelando los errores si n es par, por lo que el resultado es exacto.
