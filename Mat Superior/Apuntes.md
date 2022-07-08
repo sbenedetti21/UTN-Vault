@@ -34,6 +34,9 @@ Asegurar la calculadora en radianes.
 
 Acordarse de volver a x xuando se cambia a t
 
+# Diferenciacion
+
+
 # Integración numerica
 - Cuando se puede resolver por trapecio, o por simpson?
 	- $N = \frac{b-a}{h}$
@@ -42,3 +45,6 @@ Acordarse de volver a x xuando se cambia a t
 		- Con N no entero, no puede ninguno
 
 Funciones impares o impares corridas con SImpson, se van cancelando los errores si n es par, por lo que el resultado es exacto.
+Si la derivada segunda es igual a 0 en el intervalo, Simpson y trapecio exacta.
+Si la derivada cuarta es igual a 0, Simpson exacto.
+- Derivada segunda mayor a 0 -> concava hacia aariba
