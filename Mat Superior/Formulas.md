@@ -121,4 +121,61 @@ $\varphi_0(x) = 1$, $||\varphi_0(x)|| = 2$
 $\varphi_1(x) = x$, $||\varphi_1(x)|| = \frac{2}{3}$
 $\varphi_2(x) = \frac{1}{2}(3x²-1)$, $||\varphi_2(x)|| = \frac{2}{5}$
 
+# Diferenciación e integración numérica
+1er diferencia progresiva -> $f'(x_i) = \frac{f(x_{i+1})-f(x_{i})}{h}$
+1er diferencia regresiva -> $f'(x_i) = \frac{f(x_{i})-f(x_{i-1})}{h}$
+1er diferencia central -> $f'(x_i) = \frac{f(x_{i+1})-f(x_{i-1})}{2h}$
 
+2da diferencia progresiva -> $f''(x_i) = \frac{f(x_{i+2})-2f(x_{i+1})+f(x_{i})}{h^2}$
+2da diferencia regresiva -> $f''(x_i) = \frac{f(x_{i})-2f(x_{i-1})+f(x_{i-2})}{h^2}$
+2da diferencia central -> $f''(x_i) = \frac{f(x_{i+1})-2f(x_{i})+f(x_{i-1})}{h^2}$
+
+## Métodos de Newton-Cotes
+- Cuando se puede resolver por trapecio, o por simpson?
+	- $N = \frac{b-a}{h}$
+		- Con N entero y par, se pueden ambos
+		- Con N entero impar, solo trapecio
+		- Con N no entero, no puede ninguno
+
+Siempre trabajamos en $[-1; 1]$
+
+Método simple del trapecio -> $A_t = \frac{h}{2}(y_0+y_1)$
+Método compuesto del trapecio -> $A_t = \frac{h}{2}(E + 2M)$
+-	$E = y_0 + y_n$
+-	$M = y_1 + y_2 + ... + y_{n-1}$
+
+Método de simpson simple -> $A_t = \frac{h}{3}(y_0+4y_1+y_2)$
+Método de simpson compuesto -> $A_t = \frac{h}{3}(E+4M+2P)$
+-	$P = y_2 + y_3 +...+y_{n-2}$
+
+Funciones impares o impares corridas con SImpson, se van cancelando los errores si n es par, por lo que el resultado es exacto.
+Si la derivada segunda es igual a 0 en el intervalo, Simpson y trapecio exacta.
+Si la derivada cuarta es igual a 0, Simpson exacto.
+- Derivada segunda mayor a 0 -> concava hacia arriba
+- Derivada segunda menor a 0 -> concava hacia abajo
+
+# Ecuaciones diferenciales
+Liptchitz: $|f(t,y_1) - f(t,y_2)| ≤ L.|y_1 - y_2|$
+o tambien -> $L = max |\frac{\partial f(t,y)}{\partial y}|$
+
+**Euler** 
+$$\begin{cases}
+  w_{i+1} = w_i + h.f(t_i,w_i) \\
+  w_0 = a
+\end{cases}$$
+
+**Euler modificado | Heun**
+$$\begin{cases}
+  w_{i+1}^* = w_i + h.f(t_i,w_i) & predictora \\
+  w_{i+1} = w_i + \frac{h}{2}(f(t_i,w_i)+f(t_{i+1},w_{i+1}^*)) & correctora
+\end{cases}$$
+
+**Runge kutta orden 4**
+$$\begin{cases}
+  w_{i+1}=w_i+\frac{1}{6}(k_1+2k_2+2k_3+k_4) \\
+  k_1 = h.f(t_i,w_i) \\
+  k_2 = h.f(t_i + \frac{h}{2},w_i + \frac{k_1}{2}) \\
+  k_3 = h.f(t_i + \frac{h}{2},w_i + \frac{k_2}{2}) \\
+  k_4 = h.f(t_i + h,w_i + k_3) \\
+  w_0 = a
+\end{cases}$$
