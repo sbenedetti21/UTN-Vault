@@ -1,0 +1,13 @@
+@media print {
+
+body {
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 6px;
+  text-indent: 2em;
+  line-height: 2;
+}
+
+a {
+  color: black;
+} 
+}

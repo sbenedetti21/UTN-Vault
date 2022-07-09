@@ -5,6 +5,8 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
-  }
+    "downscalePercent": 90
+  },
+  "attachmentFolderPath": "Ing. Software/assets",
+  "communityThemeSortOrder": "download"
 }
