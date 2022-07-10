@@ -148,8 +148,8 @@ Método de simpson compuesto -> $A_t = \frac{h}{3}(E+4M+2P)$
 -	$P = y_2 + y_3 +...+y_{n-2}$
 
 Cálculo de error:
-- Trapecio -> $|\frac{b-a}{12}|h²|f''(\varphi)| < e_T$        con   $a \leq \varphi \leq b$
-- Simpson -> $|\frac{b-a}{180}|h⁴|f''''(\varphi)| < e_S$        con   $a \leq \varphi \leq b$
+- Trapecio -> $|\frac{b-a}{12}|h²max|f''(\varphi)| < e_T$        con   $a \leq \varphi \leq b$
+- Simpson -> $|\frac{b-a}{180}|h⁴max|f''''(\varphi)| < e_S$        con   $a \leq \varphi \leq b$
 
 Funciones impares o impares corridas con SImpson, se van cancelando los errores si n es par, por lo que el resultado es exacto.
 Si la derivada segunda es igual a 0 en el intervalo, Simpson y trapecio exacta.
