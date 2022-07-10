@@ -40,7 +40,6 @@ $Li(x) = (x − x_0 )(x − x_1 ) … (x − x_{i-1} )… (x − x_𝑛 )$
 $P(x) = a_0L_0(x) + a_1L_1(x) + ... + a_nL_n(x)$
 $a_i=\frac{y_i}{L_i(x_i)}$
 
-![[Pasted image 20220708185018.png]]
 
 **Newton-Gregory** -> Triángulo con las diferencias divididas.
 
@@ -148,6 +147,10 @@ Método de simpson simple -> $A_t = \frac{h}{3}(y_0+4y_1+y_2)$
 Método de simpson compuesto -> $A_t = \frac{h}{3}(E+4M+2P)$
 -	$P = y_2 + y_3 +...+y_{n-2}$
 
+Cálculo de error:
+- Trapecio -> $|\frac{b-a}{12}|h²|f''(\varphi)| < e_T$        con   $a \leq \varphi \leq b$
+- Simpson -> $|\frac{b-a}{180}|h⁴|f''''(\varphi)| < e_S$        con   $a \leq \varphi \leq b$
+
 Funciones impares o impares corridas con SImpson, se van cancelando los errores si n es par, por lo que el resultado es exacto.
 Si la derivada segunda es igual a 0 en el intervalo, Simpson y trapecio exacta.
 Si la derivada cuarta es igual a 0, Simpson exacto.
@@ -166,8 +169,8 @@ $$\begin{cases}
 
 **Euler modificado | Heun**
 $$\begin{cases}
-  w_{i+1}^* = w_i + h.f(t_i,w_i) & predictora \\
-  w_{i+1} = w_i + \frac{h}{2}(f(t_i,w_i)+f(t_{i+1},w_{i+1}^*)) & correctora
+  w_{i+1}^* = w_i + h.f(t_i,w_i) & predictora,explícita \\
+  w_{i+1} = w_i + \frac{h}{2}(f(t_i,w_i)+f(t_{i+1},w_{i+1}^*)) & correctora, implícita
 \end{cases}$$
 
 **Runge kutta orden 4**
