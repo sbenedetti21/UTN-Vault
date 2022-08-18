@@ -8,5 +8,6 @@
     "downscalePercent": 75
   },
   "attachmentFolderPath": "Ing. Software/assets",
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "fileSortOrder": "byModifiedTime"
 }

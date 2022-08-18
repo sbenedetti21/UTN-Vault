@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mat Superior/Formulas.md",
-            "mode": "source"
+            "file": "Legislacion/Clase 1.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mat Superior/Formulas.md",
+                "file": "Legislacion/Clase 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mat Superior/Formulas.md",
+                "file": "Legislacion/Clase 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61281113f2059c80",
+  "active": "3aa667f8ca505e78",
   "lastOpenFiles": [
+    "Ing. Software/3 - Calidad de Proceso.md",
+    "Ing. Software/5 - Software Estimations.md",
+    "InterviewPrep/funcExpressionVSDeclarations.png",
+    "InterviewPrep/flexvdgrid.png",
+    "InterviewPrep/Technical Q.md",
     "Mat Superior/Formulas.md",
     "Mat Superior/Apuntes.md",
-    "Untitled.md",
+    "Legislacion/Clase 1.md",
     "TAM/Notas.md",
-    "Ing. Software/7 - Testing.md",
-    "Ing. Software/6.1 - SCM FRAN.md",
-    "Ing. Software/6 - Software configuration management.md",
-    "Ing. Software/assets/Captura de Pantalla 2022-06-13 a la(s) 21.08.55.png",
-    "Economia/1.3 - Mercado y medidas del estado.md",
-    "Economia/1.2 - Factores de la producción y Oferta.md"
+    "Ing. Software/7 - Testing.md"
   ]
 }
