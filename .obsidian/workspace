@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Legislacion/Clase 1.md",
+            "file": "Tadp/Modulo 1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Legislacion/Clase 1.md",
+                "file": "Tadp/Modulo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Legislacion/Clase 1.md",
+                "file": "Tadp/Modulo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,6 +101,8 @@
   },
   "active": "3aa667f8ca505e78",
   "lastOpenFiles": [
+    "Tadp/Clase 1.md",
+    "Legislacion/Clase 1.md",
     "Ing. Software/3 - Calidad de Proceso.md",
     "Ing. Software/5 - Software Estimations.md",
     "InterviewPrep/funcExpressionVSDeclarations.png",
@@ -108,8 +110,6 @@
     "InterviewPrep/Technical Q.md",
     "Mat Superior/Formulas.md",
     "Mat Superior/Apuntes.md",
-    "Legislacion/Clase 1.md",
-    "TAM/Notas.md",
-    "Ing. Software/7 - Testing.md"
+    "TAM/Notas.md"
   ]
 }
