@@ -313,3 +313,12 @@ def m(proc = nil, &bloque)
 	...
 end
 ```
+
+Self en los bloques? Es como 'rebindear' el bloque
+```ruby
+
+bloque_nombre = proc { |nombre| puts nombre}
+
+roberto = Persona.new('roberto')
+roberto.instance_eval(&bloque_nombre)
+```
