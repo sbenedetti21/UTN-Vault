@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tadp/Modulo 2 - Metaprogramacion.md",
+            "file": "Legislacion/Derechos reales.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tadp/Modulo 2 - Metaprogramacion.md",
+                "file": "Legislacion/Derechos reales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tadp/Modulo 2 - Metaprogramacion.md",
+                "file": "Legislacion/Derechos reales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "61281113f2059c80",
   "lastOpenFiles": [
+    "Legislacion/Clase 2.md",
+    "Legislacion/Clase 1.md",
+    "Tadp/Modulo 2 - Metaprogramacion.md",
     "Tadp/Modulo 1 - Mixins vs Traits.md",
     "Ing. Software/assets/Pasted image 20220827134605.png",
     "Ing. Software/assets/Pasted image 20220827134641.png",
     "Ing. Software/assets/Pasted image 20220825153806.png",
     "Ing. Software/assets/Pasted image 20220708185018.png",
     "Tadp/Clase 1.md",
-    "Legislacion/Clase 1.md",
-    "Ing. Software/3 - Calidad de Proceso.md",
-    "Ing. Software/5 - Software Estimations.md",
-    "InterviewPrep/funcExpressionVSDeclarations.png"
+    "Ing. Software/3 - Calidad de Proceso.md"
   ]
 }
