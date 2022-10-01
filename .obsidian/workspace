@@ -1,38 +1,33 @@
 {
   "main": {
-    "id": "0b1b3bf1bf1d31fb",
+    "id": "25938e5bbdbf7a71",
     "type": "split",
     "children": [
       {
-        "id": "61281113f2059c80",
+        "id": "2e6b2af7aa6c8603",
         "type": "leaf",
         "state": {
-<<<<<<< HEAD
           "type": "markdown",
           "state": {
-            "file": "Legislacion/Derechos reales.md",
+            "file": "Tadp/Scala/Modulo 1 - Sistemas de Tipos.md",
             "mode": "source",
             "source": false
           }
-=======
-          "type": "empty",
-          "state": {}
->>>>>>> 04feaa345ef4f157b7136da16034f65d267bfbaa
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0dcc71e90c503f06",
+    "id": "27b52a6639669c1c",
     "type": "split",
     "children": [
       {
-        "id": "1eaff476565ce791",
+        "id": "35912a6a6fbcaca9",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa667f8ca505e78",
+            "id": "2a5445419ae31476",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,7 +35,7 @@
             }
           },
           {
-            "id": "6204a637d2a3e386",
+            "id": "fdda751f19482943",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,26 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 300
   },
   "right": {
-    "id": "1fd5821075f4b012",
+    "id": "2f648171520de6bd",
     "type": "split",
     "children": [
       {
-        "id": "4cf86dfa54299d2f",
+        "id": "0ec56127da47f784",
         "type": "tabs",
         "children": [
           {
-            "id": "91bcf42b3240b0aa",
+            "id": "7f8dc7adc6f43b7b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Legislacion/Derechos reales.md",
-=======
->>>>>>> 04feaa345ef4f157b7136da16034f65d267bfbaa
+                "file": "Tadp/Scala/Modulo 1 - Sistemas de Tipos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +81,12 @@
             }
           },
           {
-            "id": "d895479129b4f771",
+            "id": "ac300479085e73d9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Legislacion/Derechos reales.md",
-=======
->>>>>>> 04feaa345ef4f157b7136da16034f65d267bfbaa
+                "file": "Tadp/Scala/Modulo 1 - Sistemas de Tipos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,27 +99,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3aa667f8ca505e78",
+  "active": "2a5445419ae31476",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "Tadp/Ruby/Modulo 2 - Metaprogramacion.md",
+    "Tadp/Ruby/Modulo 1 - Mixins vs Traits.md",
     "Legislacion/Clase 2.md",
-    "Legislacion/Clase 1.md",
-=======
->>>>>>> 04feaa345ef4f157b7136da16034f65d267bfbaa
-    "Tadp/Modulo 2 - Metaprogramacion.md",
-    "Tadp/Modulo 1 - Mixins vs Traits.md",
-    "Tadp/Clase 1.md",
-    "Ing. Software/assets/Pasted image 20220827134605.png",
-    "Ing. Software/assets/Pasted image 20220827134641.png",
-    "Ing. Software/assets/Pasted image 20220825153806.png",
-    "Ing. Software/assets/Pasted image 20220708185018.png",
-<<<<<<< HEAD
-    "Tadp/Clase 1.md",
-    "Ing. Software/3 - Calidad de Proceso.md"
-=======
-    "Legislacion/Clase 1.md",
-    "Ing. Software/3 - Calidad de Proceso.md",
-    "Ing. Software/5 - Software Estimations.md"
->>>>>>> 04feaa345ef4f157b7136da16034f65d267bfbaa
+    "Legislacion/Derechos reales.md",
+    "Tadp/Ruby/Ejercicio Metaprogramacion.md"
   ]
 }
