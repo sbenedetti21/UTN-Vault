@@ -1,6 +1,7 @@
 {
   "baseFontSize": 20,
   "enabledCssSnippets": [],
-  "cssTheme": "Atom",
-  "translucency": false
+  "cssTheme": "Obsidianite",
+  "translucency": false,
+  "accentColor": ""
 }

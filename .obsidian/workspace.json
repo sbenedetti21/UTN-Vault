@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "9e8c6a56c70aabdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5881a8fbede03eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ece6ed1443e59458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/0 - Repaso de arquitectura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edd3bc873e16c4a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "359c98a390f3dcf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "636de3cecbaf58ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "166d1730312ea4be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97c4692cd09bb0c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "29cd9daf6830cc52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b65884a4ba553848",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistemas Operativos/0 - Repaso de arquitectura.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d3a844fbef802da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistemas Operativos/0 - Repaso de arquitectura.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "ece6ed1443e59458",
+  "lastOpenFiles": [
+    "Sistemas Operativos/1 - Introducción a SO.md",
+    "Sistemas Operativos/0 - Repaso de arquitectura.md",
+    "Untitled.canvas"
+  ]
+}
