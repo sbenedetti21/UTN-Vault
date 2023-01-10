@@ -8,18 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ece6ed1443e59458",
+            "id": "ca9fd3e0acad9814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/0 - Repaso de arquitectura.md",
+                "file": "Sistemas Operativos/2 - Procesos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -61,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "97c4692cd09bb0c5",
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/0 - Repaso de arquitectura.md",
+                "file": "Sistemas Operativos/2 - Procesos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/0 - Repaso de arquitectura.md",
+                "file": "Sistemas Operativos/2 - Procesos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,19 +109,14 @@
     "width": 300,
     "collapsed": true
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
-    }
+  "ribbon": {
+    "mostRecentAction": ""
   },
-  "active": "ece6ed1443e59458",
+  "active": "ca9fd3e0acad9814",
   "lastOpenFiles": [
     "Sistemas Operativos/1 - Introducción a SO.md",
     "Sistemas Operativos/0 - Repaso de arquitectura.md",
+    "Sistemas Operativos/2 - Procesos.md",
     "Untitled.canvas"
   ]
 }
