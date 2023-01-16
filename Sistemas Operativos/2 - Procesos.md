@@ -67,3 +67,25 @@ Los hilos en vez de tener PCB tienen una *TCB* (Thread control block)
 Los **KLT** son hilos a nivel de kernel, el SO conoce de su existencia y controla su ejecución.
 
 Los **ULT** son a nivel usuario y el SO no los reconoce. Lo bueno de estos es que la conmutación de contexto es aún mas rápida, pero no permiten paralelismo, justamente porque el sistema operativo no los conoce. Otra desventaja es que cuando uno de ellos realiza una operación bloqueante, bloquea a los demas ULTs.
+
+# Ejemplos
+
+Ejecucion tipica
+![[Pasted image 20230116174737.png]]
+
+Ejecución con hilos
+![[Pasted image 20230116174802.png]]
+
+# Procesos hijos
+
+Un proceso puede crear otros procesos.
+- El proceso padre puede esperar a que sus hijos terminen para terminar él
+- El proceso padre y procesos hijos trabajan en concurrencia, o en paralelo
+
+Un padre puede elegir compartir recursos con su proceso hijo o no.
+La estructura de memoria de un proceso hijo es un duplicado de la estructura del padre.
+Todos los procesos son hijos del proceso *init*
+
+![[Pasted image 20230116175655.png]]
+
+![[Pasted image 20230116180350.png]]
