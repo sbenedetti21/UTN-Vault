@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca9fd3e0acad9814",
+            "id": "4c93d735882bf439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/2 - Procesos.md",
+                "file": "Sistemas Operativos/3 - Planificación.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/2 - Procesos.md",
+                "file": "Sistemas Operativos/3 - Planificación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/2 - Procesos.md",
+                "file": "Sistemas Operativos/3 - Planificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,10 +117,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ca9fd3e0acad9814",
+  "active": "4c93d735882bf439",
   "lastOpenFiles": [
-    "Diseño de sistemas/Temas.md",
     "Sistemas Operativos/2 - Procesos.md",
+    "Diseño de sistemas/Temas.md",
     "Sistemas Operativos/1 - Introducción a SO.md",
     "Sistemas Operativos/0 - Repaso de arquitectura.md",
     "Untitled.canvas"
