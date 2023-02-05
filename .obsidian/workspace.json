@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c93d735882bf439",
+            "id": "9d9edd0dcab0b7ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/3 - Planificación.md",
+                "file": "Diseño de sistemas/Arquitectura - Integración.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/3 - Planificación.md",
+                "file": "Diseño de sistemas/Arquitectura - Integración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/3 - Planificación.md",
+                "file": "Diseño de sistemas/Arquitectura - Integración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,10 +117,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4c93d735882bf439",
+  "active": "9d9edd0dcab0b7ad",
   "lastOpenFiles": [
-    "Sistemas Operativos/2 - Procesos.md",
     "Diseño de sistemas/Temas.md",
+    "Diseño de sistemas/Arquitectura - Integración.md",
+    "Diseño de sistemas/Patrones.md",
+    "Ing. Software/2 - Calidad de SW y de producto.md",
+    "templateDC.md",
+    "Sistemas Operativos/2 - Procesos.md",
     "Sistemas Operativos/1 - Introducción a SO.md",
     "Sistemas Operativos/0 - Repaso de arquitectura.md",
     "Untitled.canvas"
