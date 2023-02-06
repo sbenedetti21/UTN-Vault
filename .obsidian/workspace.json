@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño de sistemas/Arquitectura - Integración.md",
+                "file": "TAM/Notas.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño de sistemas/Arquitectura - Integración.md",
+                "file": "TAM/Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño de sistemas/Arquitectura - Integración.md",
+                "file": "TAM/Notas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,8 +119,8 @@
   },
   "active": "9d9edd0dcab0b7ad",
   "lastOpenFiles": [
-    "Diseño de sistemas/Temas.md",
     "Diseño de sistemas/Arquitectura - Integración.md",
+    "Diseño de sistemas/Temas.md",
     "Diseño de sistemas/Patrones.md",
     "Ing. Software/2 - Calidad de SW y de producto.md",
     "templateDC.md",
