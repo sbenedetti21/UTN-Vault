@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5881a8fbede03eea",
+        "id": "2bea880f1e695f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "9d9edd0dcab0b7ad",
+            "id": "7d8ae35bb368bfc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TAM/Notas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "340ac03ac7ba74f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TAM/Care Assistance.md",
+                "file": "Diseño de sistemas/Atributos de calidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,12 +57,25 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "85e496525e25dcf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diseño de sistemas/Atributos de calidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "97c4692cd09bb0c5",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TAM/Notas.md",
+                "file": "Diseño de sistemas/Atributos de calidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TAM/Notas.md",
+                "file": "Diseño de sistemas/Atributos de calidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,17 +130,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9d9edd0dcab0b7ad",
+  "active": "636de3cecbaf58ee",
   "lastOpenFiles": [
-    "TAM/Care Assistance.md",
-    "TAM/Notas.md",
+    "Diseño de sistemas/Atributos de calidad.md",
     "Diseño de sistemas/Arquitectura - Integración.md",
-    "Diseño de sistemas/Temas.md",
     "Diseño de sistemas/Patrones.md",
-    "Ing. Software/2 - Calidad de SW y de producto.md",
-    "templateDC.md",
+    "Diseño de sistemas/Temas.md",
+    "Mat Superior/Apuntes.md",
+    "Sistemas Operativos/3 - Planificación.md",
     "Sistemas Operativos/2 - Procesos.md",
     "Sistemas Operativos/1 - Introducción a SO.md",
-    "Sistemas Operativos/0 - Repaso de arquitectura.md"
+    "Sistemas Operativos/0 - Repaso de arquitectura.md",
+    "Untitled.canvas"
   ]
 }

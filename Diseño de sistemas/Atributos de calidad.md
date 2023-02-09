@@ -1,0 +1,13 @@
+- Eficiencia de desempeño: Importante diferenciar entre
+	- Tiempo de respuesta: En cuanto responde el sistema
+	- Uso de recursos: Cuantos recursos utiliza, separar entre servidor y cliente.
+- Confiabilidad: Vinculado a tolerancia a fallos. Ejemplo del word, cuando se cierra, uno entra y tiene un archivo de recuperación. Aunque un sistema no este disponible, puede ser confiable si ante una falla el sistema siga operando o salvando esa situación. Una cola de mensajes provee mas confiabilidad que usar directamente una API REST, ya que quedaría almacenado en la cola si esta caido el otro sistema
+- Disponibilidad: Si tengo 3 servidores, 3 servicios, 3 etx pero solo 1 bd, al final mi disponibilidad es tan baja como mi db. Componentes redundantes.
+- Escalabilidad: Concurrencia, como mi aplicacion se comporta al aumento de demanda. Puedo escalar por componentes, pero debo justificar. No es poner mas nodos de todo sino los que necesito.
+- Interoperabilidad: Capacidad de un sistema de conversar con otros. En integraciones hablo de interoperabilidad, o en un microservicio.
+- Mantenibilidad: Esfuerzo que me lleva a mi mantener el sistema. Si tengo un componente mas, tengo mas esfuerzo. Si tengo un nodo mas, tambien.
+- Modificabilidad: Que tan facil es hacer cambios. Cuantos componentes tengo que tocar para generar ese cambio, como me afecta tener ese nuevo cambio.
+- Portabilidad: En desarrollo de aplicaciones moviles. No usarla si no hay mobile.
+- Seguridad: Cualquier enlace publico tiene que ser cifrado, HTTP vs HTTPS. Existe una relacion con la eficiencia o performance, ya que el procesamiento para agregar seguridad produce mas latencia.
+- Testeabilidad: Componentes faciles de testear, complicado mostrar.
+- Usabilidad: Donde resuelvo la vista, si voy a una app movil o no. Se puede hablar en cantidad de clicks, el tiempo promedio de una persona haciendo la accion. Probablemente una app nativa sea mejor en usabilidad que una app híbrida.
