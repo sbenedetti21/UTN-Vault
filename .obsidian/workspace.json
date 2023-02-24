@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2bea880f1e695f8d",
+        "id": "e36589584a705e0d",
         "type": "tabs",
         "children": [
           {
-            "id": "7d8ae35bb368bfc9",
+            "id": "66de4912ba5481ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño de sistemas/Atributos de calidad.md",
+                "file": "Diseño de sistemas/Notas.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "97c4692cd09bb0c5",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño de sistemas/Atributos de calidad.md",
+                "file": "Diseño de sistemas/Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño de sistemas/Atributos de calidad.md",
+                "file": "Diseño de sistemas/Notas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,8 +129,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "636de3cecbaf58ee",
+  "active": "66de4912ba5481ba",
   "lastOpenFiles": [
+    "Ing. Software/assets/Pasted image 20230224115920.png",
+    "Diseño de sistemas/Notas.md",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Diseño de sistemas/Atributos de calidad.md",
     "Diseño de sistemas/Arquitectura - Integración.md",
     "Diseño de sistemas/Patrones.md",
@@ -140,7 +146,6 @@
     "Sistemas Operativos/3 - Planificación.md",
     "Sistemas Operativos/2 - Procesos.md",
     "Sistemas Operativos/1 - Introducción a SO.md",
-    "Sistemas Operativos/0 - Repaso de arquitectura.md",
-    "Untitled.canvas"
+    "Sistemas Operativos/0 - Repaso de arquitectura.md"
   ]
 }
