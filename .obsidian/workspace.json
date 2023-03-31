@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e36589584a705e0d",
+        "id": "be2e43f72015123c",
         "type": "tabs",
         "children": [
           {
-            "id": "66de4912ba5481ba",
+            "id": "7192e04431efe9f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño de sistemas/Notas.md",
+                "file": "Teoria de control/1 - Introducción a los sistemas de control.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño de sistemas/Notas.md",
+                "file": "Teoria de control/1 - Introducción a los sistemas de control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño de sistemas/Notas.md",
+                "file": "Teoria de control/1 - Introducción a los sistemas de control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,10 +129,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "66de4912ba5481ba",
+  "active": "7192e04431efe9f0",
   "lastOpenFiles": [
-    "Ing. Software/assets/Pasted image 20230224115920.png",
+    "Ing. Software/assets/Pasted image 20230330215948.png",
+    "Ing. Software/assets/Pasted image 20230330215146.png",
+    "Ing. Software/assets/Pasted image 20230330213346.png",
+    "Ing. Software/assets/Pasted image 20230330212345.png",
+    "Ing. Software/assets/Pasted image 20230330210704.png",
+    "Ing. Software/assets/Pasted image 20230330210149.png",
+    "Ing. Software/assets/Pasted image 20230330205555.png",
+    "Economia/1.1 - Demanda.md",
+    "Teoria de control/1 - Introducción a los sistemas de control.md",
+    "Ing. Software/assets/Pasted image 20230330204924.png",
+    "Ing. Software/assets/Pasted image 20230330203006.png",
+    "Ing. Software/assets/Pasted image 20230330202903.png",
+    "Ing. Software/assets/Pasted image 20230330202237.png",
+    "Administracion de recursos/Clase 1.md",
+    "Teoria de control",
     "Diseño de sistemas/Notas.md",
+    "Administracion de recursos",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
