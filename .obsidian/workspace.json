@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69cd222981c80c39",
+            "id": "e669d1e3d9a58a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administracion de recursos/1.1 - Gestión de proyectos.md",
+                "file": "Administracion de recursos/2.2 - Complejidad de proyectos.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "97c4692cd09bb0c5",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administracion de recursos/1.1 - Gestión de proyectos.md",
+                "file": "Administracion de recursos/2.2 - Complejidad de proyectos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administracion de recursos/1.1 - Gestión de proyectos.md",
+                "file": "Administracion de recursos/2.2 - Complejidad de proyectos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,12 +130,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "69cd222981c80c39",
+  "active": "e669d1e3d9a58a0d",
   "lastOpenFiles": [
+    "Ing. Software/assets/Pasted image 20230411201331.png",
+    "Administracion de recursos/2.1 - Proyectos ágiles.md",
+    "Administracion de recursos/2.2 - Complejidad de proyectos.md",
     "Administracion de recursos/1.2 - Gestión de alcance.md",
+    "Administracion de recursos/1.1 - Gestión de proyectos.md",
+    "Ing. Software/assets/Pasted image 20230411200635.png",
+    "Ing. Software/assets/Pasted image 20230411195413.png",
     "Ing. Software/assets/Pasted image 20230404211221.png",
     "Ing. Software/assets/Pasted image 20230404210341.png",
-    "Administracion de recursos/1.1 - Gestión de proyectos.md",
     "Ing. Software/assets/Pasted image 20230404204326.png",
     "Ing. Software/assets/Pasted image 20230404204309.png",
     "Ing. Software/4 - Software Engineer Approaches.md",
@@ -146,8 +152,6 @@
     "Ing. Software/3 - Calidad de Proceso.md",
     "Teoria de control/1 - Introducción a los sistemas de control.md",
     "Ing. Software/assets/Pasted image 20230330215948.png",
-    "Ing. Software/assets/Pasted image 20230330215146.png",
-    "Ing. Software/assets/Pasted image 20230330213346.png",
     "Economia/1.1 - Demanda.md",
     "Teoria de control",
     "Diseño de sistemas/Notas.md",
