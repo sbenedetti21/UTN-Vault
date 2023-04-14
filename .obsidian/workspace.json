@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be2e43f72015123c",
+        "id": "92bdbc28153157f8",
         "type": "tabs",
         "children": [
           {
-            "id": "e669d1e3d9a58a0d",
+            "id": "1c1c9bf517a1313c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administracion de recursos/2.2 - Complejidad de proyectos.md",
+                "file": "Teoria de control/2 - Diagrama de bloques.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administracion de recursos/2.2 - Complejidad de proyectos.md",
+                "file": "Teoria de control/2 - Diagrama de bloques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administracion de recursos/2.2 - Complejidad de proyectos.md",
+                "file": "Teoria de control/2 - Diagrama de bloques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,28 +130,29 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e669d1e3d9a58a0d",
+  "active": "1c1c9bf517a1313c",
   "lastOpenFiles": [
-    "Ing. Software/assets/Pasted image 20230411201331.png",
-    "Administracion de recursos/2.1 - Proyectos ágiles.md",
+    "Ing. Software/assets/Pasted image 20230413212933.png",
+    "Ing. Software/assets/Pasted image 20230413212551.png",
+    "Ing. Software/assets/Pasted image 20230413212257.png",
+    "Ing. Software/assets/Pasted image 20230413210405.png",
+    "Ing. Software/assets/Pasted image 20230413205733.png",
+    "Ing. Software/assets/Pasted image 20230413205611.png",
+    "Ing. Software/assets/Pasted image 20230413203208.png",
+    "Ing. Software/assets/Pasted image 20230413200641.png",
+    "Ing. Software/assets/Pasted image 20230413200241.png",
+    "Ing. Software/assets/Pasted image 20230413195414.png",
+    "Ing. Software/assets/Pasted image 20230413195014.png",
+    "Teoria de control/1 - Introducción a los sistemas de control.md",
+    "Teoria de control/2 - Diagrama de bloques.md",
     "Administracion de recursos/2.2 - Complejidad de proyectos.md",
+    "Administracion de recursos/2.1 - Proyectos ágiles.md",
     "Administracion de recursos/1.2 - Gestión de alcance.md",
     "Administracion de recursos/1.1 - Gestión de proyectos.md",
-    "Ing. Software/assets/Pasted image 20230411200635.png",
-    "Ing. Software/assets/Pasted image 20230411195413.png",
-    "Ing. Software/assets/Pasted image 20230404211221.png",
-    "Ing. Software/assets/Pasted image 20230404210341.png",
-    "Ing. Software/assets/Pasted image 20230404204326.png",
-    "Ing. Software/assets/Pasted image 20230404204309.png",
     "Ing. Software/4 - Software Engineer Approaches.md",
-    "Ing. Software/assets/Pasted image 20230404202038.png",
-    "Ing. Software/assets/Pasted image 20230404200100.png",
-    "Ing. Software/assets/Pasted image 20230404194350.png",
     "Ing. Software/5 - Software Estimations.md",
     "Ing. Software/2 - Calidad de SW y de producto.md",
     "Ing. Software/3 - Calidad de Proceso.md",
-    "Teoria de control/1 - Introducción a los sistemas de control.md",
-    "Ing. Software/assets/Pasted image 20230330215948.png",
     "Economia/1.1 - Demanda.md",
     "Teoria de control",
     "Diseño de sistemas/Notas.md",
