@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92bdbc28153157f8",
+        "id": "accf04aee7ac671f",
         "type": "tabs",
         "children": [
           {
-            "id": "1c1c9bf517a1313c",
+            "id": "751796030ce7a338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de control/2 - Diagrama de bloques.md",
+                "file": "Administracion de recursos/3.1 - Plan de negocios.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de control/2 - Diagrama de bloques.md",
+                "file": "Administracion de recursos/3.1 - Plan de negocios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de control/2 - Diagrama de bloques.md",
+                "file": "Administracion de recursos/3.1 - Plan de negocios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,8 +130,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1c1c9bf517a1313c",
+  "active": "636de3cecbaf58ee",
   "lastOpenFiles": [
+    "Administracion de recursos/2.1 - Proyectos ágiles.md",
+    "Administracion de recursos/2.2 - Complejidad de proyectos.md",
+    "Administracion de recursos/3.1 - Plan de negocios.md",
+    "Teoria de control/2 - Diagrama de bloques.md",
+    "Ing. Software/assets/Pasted image 20230418100030.png",
     "Ing. Software/assets/Pasted image 20230413212933.png",
     "Ing. Software/assets/Pasted image 20230413212551.png",
     "Ing. Software/assets/Pasted image 20230413212257.png",
@@ -141,12 +146,7 @@
     "Ing. Software/assets/Pasted image 20230413203208.png",
     "Ing. Software/assets/Pasted image 20230413200641.png",
     "Ing. Software/assets/Pasted image 20230413200241.png",
-    "Ing. Software/assets/Pasted image 20230413195414.png",
-    "Ing. Software/assets/Pasted image 20230413195014.png",
     "Teoria de control/1 - Introducción a los sistemas de control.md",
-    "Teoria de control/2 - Diagrama de bloques.md",
-    "Administracion de recursos/2.2 - Complejidad de proyectos.md",
-    "Administracion de recursos/2.1 - Proyectos ágiles.md",
     "Administracion de recursos/1.2 - Gestión de alcance.md",
     "Administracion de recursos/1.1 - Gestión de proyectos.md",
     "Ing. Software/4 - Software Engineer Approaches.md",

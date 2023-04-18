@@ -39,7 +39,7 @@ La idea principal es llevar todo diagrama de bloques a una función transferenci
 
 Esto se transforma hacia ---------------------------------->> esto
 ![[Pasted image 20230413195414.png]]
-ver el resto en la tabla resumen
+![[Pasted image 20230418100030.png]]
 
 ![[Pasted image 20230413200241.png]]
 Ojo, si la retroalimentación es positiva, el denominador llevaría un $-$
