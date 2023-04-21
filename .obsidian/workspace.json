@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "accf04aee7ac671f",
+        "id": "fd7741ca6cae2f92",
         "type": "tabs",
         "children": [
           {
-            "id": "751796030ce7a338",
+            "id": "3076e66c7d53987e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administracion de recursos/3.1 - Plan de negocios.md",
+                "file": "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Resistencia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administracion de recursos/3.1 - Plan de negocios.md",
+                "file": "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administracion de recursos/3.1 - Plan de negocios.md",
+                "file": "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,22 +131,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "636de3cecbaf58ee",
+  "active": "3076e66c7d53987e",
   "lastOpenFiles": [
+    "Ing. Software/assets/Pasted image 20230420212634.png",
+    "Ing. Software/assets/Pasted image 20230420212301.png",
+    "Ing. Software/assets/Pasted image 20230420212145.png",
+    "Ing. Software/assets/Pasted image 20230420212053.png",
+    "Ing. Software/assets/Pasted image 20230420211832.png",
+    "Ing. Software/assets/Pasted image 20230420211711.png",
+    "Ing. Software/assets/Pasted image 20230420210554.png",
+    "Ing. Software/assets/Pasted image 20230420210347.png",
+    "Ing. Software/assets/Pasted image 20230420202242.png",
+    "Ing. Software/assets/Pasted image 20230420201824.png",
+    "Ing. Software/assets/Pasted image 20230420201403.png",
+    "Teoria de control/2 - Diagrama de bloques.md",
+    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
+    "Administracion de recursos/3.1 - Plan de negocios.md",
     "Administracion de recursos/2.1 - Proyectos ágiles.md",
     "Administracion de recursos/2.2 - Complejidad de proyectos.md",
-    "Administracion de recursos/3.1 - Plan de negocios.md",
-    "Teoria de control/2 - Diagrama de bloques.md",
-    "Ing. Software/assets/Pasted image 20230418100030.png",
-    "Ing. Software/assets/Pasted image 20230413212933.png",
-    "Ing. Software/assets/Pasted image 20230413212551.png",
-    "Ing. Software/assets/Pasted image 20230413212257.png",
-    "Ing. Software/assets/Pasted image 20230413210405.png",
-    "Ing. Software/assets/Pasted image 20230413205733.png",
-    "Ing. Software/assets/Pasted image 20230413205611.png",
-    "Ing. Software/assets/Pasted image 20230413203208.png",
-    "Ing. Software/assets/Pasted image 20230413200641.png",
-    "Ing. Software/assets/Pasted image 20230413200241.png",
     "Teoria de control/1 - Introducción a los sistemas de control.md",
     "Administracion de recursos/1.2 - Gestión de alcance.md",
     "Administracion de recursos/1.1 - Gestión de proyectos.md",
