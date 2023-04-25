@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd7741ca6cae2f92",
+        "id": "011357f58345c083",
         "type": "tabs",
         "children": [
           {
-            "id": "3076e66c7d53987e",
+            "id": "9aad5a3696252a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
+                "file": "TAM/Chore.IO mejoras.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Resistencia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,13 +70,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "97c4692cd09bb0c5",
@@ -92,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
+                "file": "TAM/Chore.IO mejoras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
+                "file": "TAM/Chore.IO mejoras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,8 +129,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3076e66c7d53987e",
+  "active": "9aad5a3696252a52",
   "lastOpenFiles": [
+    "TAM/Chore.IO mejoras.md",
+    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
     "Laboratorio Redes/TL1.md",
     "Laboratorio Redes",
     "Ing. Software/assets/Pasted image 20230420212634.png",
@@ -146,7 +146,6 @@
     "Ing. Software/assets/Pasted image 20230420202242.png",
     "Ing. Software/assets/Pasted image 20230420201824.png",
     "Teoria de control/2 - Diagrama de bloques.md",
-    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
     "Administracion de recursos/3.1 - Plan de negocios.md",
     "Administracion de recursos/2.1 - Proyectos ágiles.md",
     "Administracion de recursos/2.2 - Complejidad de proyectos.md",
