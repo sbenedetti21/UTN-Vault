@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9aad5a3696252a52",
+            "id": "b58be0da78b8c031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TAM/Chore.IO mejoras.md",
+                "file": "Administracion de recursos/4.1 - EVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TAM/Chore.IO mejoras.md",
+                "file": "Administracion de recursos/4.1 - EVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TAM/Chore.IO mejoras.md",
+                "file": "Administracion de recursos/4.1 - EVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +129,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9aad5a3696252a52",
+  "active": "b58be0da78b8c031",
   "lastOpenFiles": [
+    "Ing. Software/assets/Pasted image 20230425194537.png",
+    "Ing. Software/6.1 - SCM FRAN.md",
+    "Administracion de recursos/4.1 - EVM.md",
     "TAM/Chore.IO mejoras.md",
     "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
     "Laboratorio Redes/TL1.md",
@@ -171,8 +174,6 @@
     "Diseño de sistemas/Temas.md",
     "Mat Superior/Apuntes.md",
     "Sistemas Operativos/3 - Planificación.md",
-    "Sistemas Operativos/2 - Procesos.md",
-    "Sistemas Operativos/1 - Introducción a SO.md",
-    "Sistemas Operativos/0 - Repaso de arquitectura.md"
+    "Sistemas Operativos/2 - Procesos.md"
   ]
 }
