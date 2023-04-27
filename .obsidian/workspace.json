@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b58be0da78b8c031",
+            "id": "31a7dc1a82b3610c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administracion de recursos/4.1 - EVM.md",
+                "file": "Teoria de control/4 - Sistema térmico.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administracion de recursos/4.1 - EVM.md",
+                "file": "Teoria de control/4 - Sistema térmico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administracion de recursos/4.1 - EVM.md",
+                "file": "Teoria de control/4 - Sistema térmico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,13 +129,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b58be0da78b8c031",
+  "active": "31a7dc1a82b3610c",
   "lastOpenFiles": [
+    "Ing. Software/assets/Pasted image 20230427194648.png",
+    "Ing. Software/assets/Pasted image 20230427194427.png",
+    "Ing. Software/assets/Pasted image 20230427194231.png",
+    "Ing. Software/assets/Pasted image 20230427194017.png",
+    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
+    "Teoria de control/4 - Sistema térmico.md",
+    "Ing. Software/assets/Pasted image 20230427192311.png",
+    "Teoria de control/2 - Diagrama de bloques.md",
+    "Administracion de recursos/4.1 - EVM.md",
     "Ing. Software/assets/Pasted image 20230425194537.png",
     "Ing. Software/6.1 - SCM FRAN.md",
-    "Administracion de recursos/4.1 - EVM.md",
     "TAM/Chore.IO mejoras.md",
-    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
     "Laboratorio Redes/TL1.md",
     "Laboratorio Redes",
     "Ing. Software/assets/Pasted image 20230420212634.png",
@@ -143,12 +150,6 @@
     "Ing. Software/assets/Pasted image 20230420212145.png",
     "Ing. Software/assets/Pasted image 20230420212053.png",
     "Ing. Software/assets/Pasted image 20230420211832.png",
-    "Ing. Software/assets/Pasted image 20230420211711.png",
-    "Ing. Software/assets/Pasted image 20230420210554.png",
-    "Ing. Software/assets/Pasted image 20230420210347.png",
-    "Ing. Software/assets/Pasted image 20230420202242.png",
-    "Ing. Software/assets/Pasted image 20230420201824.png",
-    "Teoria de control/2 - Diagrama de bloques.md",
     "Administracion de recursos/3.1 - Plan de negocios.md",
     "Administracion de recursos/2.1 - Proyectos ágiles.md",
     "Administracion de recursos/2.2 - Complejidad de proyectos.md",
@@ -173,7 +174,6 @@
     "Diseño de sistemas/Patrones.md",
     "Diseño de sistemas/Temas.md",
     "Mat Superior/Apuntes.md",
-    "Sistemas Operativos/3 - Planificación.md",
-    "Sistemas Operativos/2 - Procesos.md"
+    "Sistemas Operativos/3 - Planificación.md"
   ]
 }
