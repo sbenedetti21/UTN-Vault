@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "011357f58345c083",
+        "id": "c150bef28e6dba04",
         "type": "tabs",
         "children": [
           {
-            "id": "31a7dc1a82b3610c",
+            "id": "6351043913210450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de control/4 - Sistema térmico.md",
+                "file": "Administracion de recursos/5.2 - Practica EVM.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6997f44b2f600227",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -69,6 +80,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96d2bce35cdb3fd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -90,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de control/4 - Sistema térmico.md",
+                "file": "Administracion de recursos/5.2 - Practica EVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de control/4 - Sistema térmico.md",
+                "file": "Administracion de recursos/5.2 - Practica EVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,30 +148,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "31a7dc1a82b3610c",
+  "active": "6997f44b2f600227",
   "lastOpenFiles": [
+    "Administracion de recursos/4.1 - EVM.md",
+    "Administracion de recursos/5.2 - Practica EVM.md",
+    "Ing. Software/assets/Pasted image 20230502204934.png",
+    "Ing. Software/assets/Pasted image 20230502203640.png",
+    "Administracion de recursos/5.1 - Benchmark.md",
+    "Administracion de recursos/3.1 - Plan de negocios.md",
+    "Teoria de control/4 - Sistema térmico.md",
+    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
+    "TAM/Chore.IO mejoras.md",
     "Ing. Software/assets/Pasted image 20230427194648.png",
     "Ing. Software/assets/Pasted image 20230427194427.png",
     "Ing. Software/assets/Pasted image 20230427194231.png",
     "Ing. Software/assets/Pasted image 20230427194017.png",
-    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
-    "Teoria de control/4 - Sistema térmico.md",
     "Ing. Software/assets/Pasted image 20230427192311.png",
-    "Teoria de control/2 - Diagrama de bloques.md",
-    "Administracion de recursos/4.1 - EVM.md",
     "Ing. Software/assets/Pasted image 20230425194537.png",
-    "Ing. Software/6.1 - SCM FRAN.md",
-    "TAM/Chore.IO mejoras.md",
-    "Laboratorio Redes/TL1.md",
-    "Laboratorio Redes",
     "Ing. Software/assets/Pasted image 20230420212634.png",
     "Ing. Software/assets/Pasted image 20230420212301.png",
-    "Ing. Software/assets/Pasted image 20230420212145.png",
-    "Ing. Software/assets/Pasted image 20230420212053.png",
-    "Ing. Software/assets/Pasted image 20230420211832.png",
-    "Administracion de recursos/3.1 - Plan de negocios.md",
     "Administracion de recursos/2.1 - Proyectos ágiles.md",
     "Administracion de recursos/2.2 - Complejidad de proyectos.md",
+    "Teoria de control/2 - Diagrama de bloques.md",
     "Teoria de control/1 - Introducción a los sistemas de control.md",
     "Administracion de recursos/1.2 - Gestión de alcance.md",
     "Administracion de recursos/1.1 - Gestión de proyectos.md",
