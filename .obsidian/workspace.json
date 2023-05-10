@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administracion de recursos/5.2 - Practica EVM.md",
+                "file": "Administracion de recursos/6 - Gestión de abastecimiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "97c4692cd09bb0c5",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administracion de recursos/5.2 - Practica EVM.md",
+                "file": "Administracion de recursos/6 - Gestión de abastecimiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administracion de recursos/5.2 - Practica EVM.md",
+                "file": "Administracion de recursos/6 - Gestión de abastecimiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +140,10 @@
   },
   "active": "6351043913210450",
   "lastOpenFiles": [
-    "Administracion de recursos/4.1 - EVM.md",
+    "Ing. Software/assets/Pasted image 20230509221052.png",
     "Administracion de recursos/5.2 - Practica EVM.md",
+    "Administracion de recursos/6 - Gestión de abastecimiento.md",
+    "Administracion de recursos/4.1 - EVM.md",
     "Ing. Software/assets/Pasted image 20230502204934.png",
     "Ing. Software/assets/Pasted image 20230502203640.png",
     "Administracion de recursos/5.1 - Benchmark.md",
@@ -179,7 +182,6 @@
     "Diseño de sistemas/Arquitectura - Integración.md",
     "Diseño de sistemas/Patrones.md",
     "Diseño de sistemas/Temas.md",
-    "Mat Superior/Apuntes.md",
-    "Sistemas Operativos/3 - Planificación.md"
+    "Mat Superior/Apuntes.md"
   ]
 }
