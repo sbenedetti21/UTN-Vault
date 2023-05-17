@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c150bef28e6dba04",
+        "id": "ec59014f9ec3d215",
         "type": "tabs",
         "children": [
           {
-            "id": "6351043913210450",
+            "id": "580b9208fa15e2c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administracion de recursos/6 - Gestión de abastecimiento.md",
+                "file": "Administracion de recursos/7.2 - Práctica MEP.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "97c4692cd09bb0c5",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administracion de recursos/6 - Gestión de abastecimiento.md",
+                "file": "Administracion de recursos/7.2 - Práctica MEP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administracion de recursos/6 - Gestión de abastecimiento.md",
+                "file": "Administracion de recursos/7.2 - Práctica MEP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,27 +137,30 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6351043913210450",
+  "active": "580b9208fa15e2c9",
   "lastOpenFiles": [
+    "Ing. Software/assets/Pasted image 20230516214916.png",
+    "Ing. Software/assets/Pasted image 20230516214901.png",
+    "Ing. Software/assets/Pasted image 20230516204003.png",
+    "Administracion de recursos/7 - VPP, Costo vs Satisfacción.md",
+    "Administracion de recursos/7.2 - Práctica MEP.md",
+    "Ing. Software/assets/Pasted image 20230516193055.png",
+    "Ing. Software/assets/Pasted image 20230516192801.png",
+    "TAM/Gulf.md",
+    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
+    "Administracion de recursos/6 - Gestión de abastecimiento.md",
     "Ing. Software/assets/Pasted image 20230509221052.png",
     "Administracion de recursos/5.2 - Practica EVM.md",
-    "Administracion de recursos/6 - Gestión de abastecimiento.md",
     "Administracion de recursos/4.1 - EVM.md",
     "Ing. Software/assets/Pasted image 20230502204934.png",
     "Ing. Software/assets/Pasted image 20230502203640.png",
     "Administracion de recursos/5.1 - Benchmark.md",
     "Administracion de recursos/3.1 - Plan de negocios.md",
     "Teoria de control/4 - Sistema térmico.md",
-    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
     "TAM/Chore.IO mejoras.md",
     "Ing. Software/assets/Pasted image 20230427194648.png",
     "Ing. Software/assets/Pasted image 20230427194427.png",
     "Ing. Software/assets/Pasted image 20230427194231.png",
-    "Ing. Software/assets/Pasted image 20230427194017.png",
-    "Ing. Software/assets/Pasted image 20230427192311.png",
-    "Ing. Software/assets/Pasted image 20230425194537.png",
-    "Ing. Software/assets/Pasted image 20230420212634.png",
-    "Ing. Software/assets/Pasted image 20230420212301.png",
     "Administracion de recursos/2.1 - Proyectos ágiles.md",
     "Administracion de recursos/2.2 - Complejidad de proyectos.md",
     "Teoria de control/2 - Diagrama de bloques.md",
@@ -179,9 +181,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Diseño de sistemas/Atributos de calidad.md",
-    "Diseño de sistemas/Arquitectura - Integración.md",
-    "Diseño de sistemas/Patrones.md",
-    "Diseño de sistemas/Temas.md",
-    "Mat Superior/Apuntes.md"
+    "Diseño de sistemas/Arquitectura - Integración.md"
   ]
 }
