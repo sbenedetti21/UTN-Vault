@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec59014f9ec3d215",
+        "id": "15ee65eb232ebe05",
         "type": "tabs",
         "children": [
           {
-            "id": "580b9208fa15e2c9",
+            "id": "fdbed1621afc89c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administracion de recursos/7.2 - Práctica MEP.md",
+                "file": "Teoria de control/6 - Controladores y tipos de control.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administracion de recursos/7.2 - Práctica MEP.md",
+                "file": "Teoria de control/6 - Controladores y tipos de control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administracion de recursos/7.2 - Práctica MEP.md",
+                "file": "Teoria de control/6 - Controladores y tipos de control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,13 +137,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "580b9208fa15e2c9",
+  "active": "fdbed1621afc89c5",
   "lastOpenFiles": [
+    "Ing. Software/assets/Pasted image 20230518195848.png",
+    "Ing. Software/assets/Pasted image 20230518194842.png",
+    "Ing. Software/assets/Pasted image 20230518194714.png",
+    "Teoria de control/6 - Controladores y tipos de control.md",
+    "Administracion de recursos/7.2 - Práctica MEP.md",
     "Ing. Software/assets/Pasted image 20230516214916.png",
     "Ing. Software/assets/Pasted image 20230516214901.png",
     "Ing. Software/assets/Pasted image 20230516204003.png",
     "Administracion de recursos/7 - VPP, Costo vs Satisfacción.md",
-    "Administracion de recursos/7.2 - Práctica MEP.md",
     "Ing. Software/assets/Pasted image 20230516193055.png",
     "Ing. Software/assets/Pasted image 20230516192801.png",
     "TAM/Gulf.md",
@@ -158,9 +162,6 @@
     "Administracion de recursos/3.1 - Plan de negocios.md",
     "Teoria de control/4 - Sistema térmico.md",
     "TAM/Chore.IO mejoras.md",
-    "Ing. Software/assets/Pasted image 20230427194648.png",
-    "Ing. Software/assets/Pasted image 20230427194427.png",
-    "Ing. Software/assets/Pasted image 20230427194231.png",
     "Administracion de recursos/2.1 - Proyectos ágiles.md",
     "Administracion de recursos/2.2 - Complejidad de proyectos.md",
     "Teoria de control/2 - Diagrama de bloques.md",
@@ -180,7 +181,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Diseño de sistemas/Atributos de calidad.md",
-    "Diseño de sistemas/Arquitectura - Integración.md"
+    "Diseño de sistemas/Atributos de calidad.md"
   ]
 }
