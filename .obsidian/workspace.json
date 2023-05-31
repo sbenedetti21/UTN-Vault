@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15ee65eb232ebe05",
+        "id": "69e9c586e720ea54",
         "type": "tabs",
         "children": [
           {
-            "id": "fdbed1621afc89c5",
+            "id": "363706c6d0508a9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de control/6 - Controladores y tipos de control.md",
+                "file": "Administracion de recursos/8 - Big Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "97c4692cd09bb0c5",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de control/6 - Controladores y tipos de control.md",
+                "file": "Administracion de recursos/8 - Big Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de control/6 - Controladores y tipos de control.md",
+                "file": "Administracion de recursos/8 - Big Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,30 +138,30 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fdbed1621afc89c5",
+  "active": "636de3cecbaf58ee",
   "lastOpenFiles": [
+    "Administracion de recursos/7 - VPP, Costo vs Satisfacción.md",
+    "Administracion de recursos/8 - Big Data.md",
+    "Administracion de recursos/6 - Gestión de abastecimiento.md",
+    "Teoria de control/6 - Controladores y tipos de control.md",
+    "TAM/Gulf.md",
     "Ing. Software/assets/Pasted image 20230518195848.png",
     "Ing. Software/assets/Pasted image 20230518194842.png",
     "Ing. Software/assets/Pasted image 20230518194714.png",
-    "Teoria de control/6 - Controladores y tipos de control.md",
-    "Administracion de recursos/7.2 - Práctica MEP.md",
     "Ing. Software/assets/Pasted image 20230516214916.png",
     "Ing. Software/assets/Pasted image 20230516214901.png",
     "Ing. Software/assets/Pasted image 20230516204003.png",
-    "Administracion de recursos/7 - VPP, Costo vs Satisfacción.md",
     "Ing. Software/assets/Pasted image 20230516193055.png",
     "Ing. Software/assets/Pasted image 20230516192801.png",
-    "TAM/Gulf.md",
-    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
-    "Administracion de recursos/6 - Gestión de abastecimiento.md",
+    "Administracion de recursos/7.2 - Práctica MEP.md",
     "Ing. Software/assets/Pasted image 20230509221052.png",
     "Administracion de recursos/5.2 - Practica EVM.md",
     "Administracion de recursos/4.1 - EVM.md",
     "Ing. Software/assets/Pasted image 20230502204934.png",
-    "Ing. Software/assets/Pasted image 20230502203640.png",
     "Administracion de recursos/5.1 - Benchmark.md",
     "Administracion de recursos/3.1 - Plan de negocios.md",
     "Teoria de control/4 - Sistema térmico.md",
+    "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
     "TAM/Chore.IO mejoras.md",
     "Administracion de recursos/2.1 - Proyectos ágiles.md",
     "Administracion de recursos/2.2 - Complejidad de proyectos.md",
