@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria de control/7 - Lugar de raíces.md",
+                "file": "Teoria de control/8 - Control Analógico.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria de control/7 - Lugar de raíces.md",
+                "file": "Teoria de control/8 - Control Analógico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria de control/7 - Lugar de raíces.md",
+                "file": "Teoria de control/8 - Control Analógico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,12 +139,17 @@
   },
   "active": "d8983562b1599453",
   "lastOpenFiles": [
+    "Ing. Software/assets/Pasted image 20230608200234.png",
+    "Ing. Software/assets/Pasted image 20230608194826.png",
+    "Ing. Software/assets/Pasted image 20230608191838.png",
+    "Administracion de recursos/9 - Blockchain.md",
+    "Teoria de control/8 - Control Analógico.md",
+    "Teoria de control/7 - Lugar de raíces.md",
     "Ing. Software/assets/Pasted image 20230601205208.png",
     "Teoria de control/6 - Controladores y tipos de control.md",
     "Teoria de control/3 - Resolución Circuitos Eléctricos, Impedancia.md",
     "Teoria de control/4 - Sistema térmico.md",
     "Teoria de control/5 - Error en estado estable.md",
-    "Teoria de control/7 - Lugar de raíces.md",
     "Ing. Software/assets/Pasted image 20230601203122.png",
     "Ing. Software/assets/Pasted image 20230601202943.png",
     "Ing. Software/assets/Pasted image 20230601202523.png",
@@ -156,9 +161,6 @@
     "Ing. Software/assets/Pasted image 20230518195848.png",
     "Ing. Software/assets/Pasted image 20230518194842.png",
     "Ing. Software/assets/Pasted image 20230518194714.png",
-    "Ing. Software/assets/Pasted image 20230516214916.png",
-    "Ing. Software/assets/Pasted image 20230516214901.png",
-    "Ing. Software/assets/Pasted image 20230516204003.png",
     "Administracion de recursos/7.2 - Práctica MEP.md",
     "Administracion de recursos/5.2 - Practica EVM.md",
     "Administracion de recursos/4.1 - EVM.md",
@@ -173,8 +175,6 @@
     "Administracion de recursos/1.1 - Gestión de proyectos.md",
     "Ing. Software/4 - Software Engineer Approaches.md",
     "Ing. Software/5 - Software Estimations.md",
-    "Ing. Software/2 - Calidad de SW y de producto.md",
-    "Ing. Software/3 - Calidad de Proceso.md",
     "Teoria de control",
     "Administracion de recursos",
     "Untitled 4.canvas",
